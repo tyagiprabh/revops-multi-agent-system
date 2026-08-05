@@ -5,14 +5,14 @@ Implements agents/revenue_digest_agent.md. All numbers are computed in code
 writes the executive summary on top of the computed digest.
 """
 
-from pathlib import Path
 from typing import Optional
 
 from ..data_dictionary import OPEN_STAGES
 from ..llm import ClaudeClient
+from ..paths import repo_file
 from ..schemas import Deal, HygieneReport, RiskAssessment
 
-_SPEC_PATH = Path(__file__).resolve().parents[3] / "agents" / "revenue_digest_agent.md"
+_SPEC_PATH = repo_file("agents", "revenue_digest_agent.md")
 
 TOP_RISKS = 5
 

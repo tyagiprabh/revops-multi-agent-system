@@ -13,11 +13,11 @@ Two interchangeable engines produce the same RiskAssessment schema:
                    ANTHROPIC_API_KEY is available.
 """
 
-from pathlib import Path
 from typing import Optional
 
 from ..data_dictionary import LATE_STAGES, OPEN_STAGES, SILENCE_AFTER_DAYS
 from ..llm import ClaudeClient
+from ..paths import repo_file
 from ..schemas import CallTranscript, Deal, RiskAssessment
 
 BUDGET_MARKERS = ["budget", "too expensive", "can't afford", "cost is"]
@@ -38,7 +38,7 @@ BUYING_MARKERS = [
     "start a pilot",
 ]
 
-_SPEC_PATH = Path(__file__).resolve().parents[3] / "agents" / "pipeline_analyst_agent.md"
+_SPEC_PATH = repo_file("agents", "pipeline_analyst_agent.md")
 
 
 def _find_quotes(lines: list[str], markers: list[str]) -> list[str]:

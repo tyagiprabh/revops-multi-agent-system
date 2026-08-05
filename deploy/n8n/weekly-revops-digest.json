@@ -1,0 +1,93 @@
+{
+  "name": "Weekly RevOps Digest",
+  "nodes": [
+    {
+      "parameters": {
+        "content": "## Weekly RevOps Digest\n\nRuns the revops pipeline every Monday 07:00 and posts the digest to Slack.\n\n**Setup**\n1. The n8n host needs the repo installed: `pip install -e .` (or swap the command for `docker run --rm revops` if you built the Dockerfile).\n2. Attach your Slack credentials to the Slack node and pick the channel.\n3. For Claude-written analysis, set ANTHROPIC_API_KEY in the n8n environment and add `--live` to the command.\n\n**Failure behavior**: a non-zero exit fails the workflow. Point your n8n Error Workflow at this one to get alerted instead of silently missing a Monday digest.",
+        "height": 320,
+        "width": 420
+      },
+      "id": "a1f2b3c4-0000-4000-8000-000000000001",
+      "name": "Setup notes",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [0, 0]
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "weeks",
+              "weeksInterval": 1,
+              "triggerAtDay": [1],
+              "triggerAtHour": 7,
+              "triggerAtMinute": 0
+            }
+          ]
+        }
+      },
+      "id": "a1f2b3c4-0000-4000-8000-000000000002",
+      "name": "Every Monday 07:00",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [480, 160]
+    },
+    {
+      "parameters": {
+        "command": "python3 -m revops run --out /tmp/revops-digest >/dev/null && cat /tmp/revops-digest/weekly_digest.md"
+      },
+      "id": "a1f2b3c4-0000-4000-8000-000000000003",
+      "name": "Run RevOps pipeline",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [700, 160]
+    },
+    {
+      "parameters": {
+        "select": "channel",
+        "channelId": {
+          "__rl": true,
+          "mode": "name",
+          "value": "#revenue-digest"
+        },
+        "text": "={{ $json.stdout }}",
+        "otherOptions": {}
+      },
+      "id": "a1f2b3c4-0000-4000-8000-000000000004",
+      "name": "Post digest to Slack",
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 2.2,
+      "position": [920, 160]
+    }
+  ],
+  "connections": {
+    "Every Monday 07:00": {
+      "main": [
+        [
+          {
+            "node": "Run RevOps pipeline",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Run RevOps pipeline": {
+      "main": [
+        [
+          {
+            "node": "Post digest to Slack",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false,
+  "pinData": {}
+}
