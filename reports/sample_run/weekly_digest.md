@@ -2,32 +2,32 @@
 
 ## Pipeline snapshot
 
-Open pipeline: **$10,621,778** across **142** deals.
+Open pipeline: **$11,023,857** across **135** deals.
 
 | Stage | Deals | ARR |
 |---|---|---|
-| Discovery | 31 | $2,627,619 |
-| Demo Scheduled | 31 | $2,082,093 |
-| Technical Validation | 41 | $2,994,954 |
-| Legal Review | 39 | $2,917,112 |
+| Discovery | 24 | $1,821,693 |
+| Demo Scheduled | 26 | $1,979,036 |
+| Technical Validation | 48 | $4,065,581 |
+| Legal Review | 37 | $3,157,547 |
 
 ## Risk callout
 
-**$2,909,572** of ARR sits in **39** High risk deals (106 deals assessed, 36 without call data).
+**$3,338,205** of ARR sits in **39** High risk deals (101 deals assessed, 34 without call data).
 
 | Deal | ARR | CRM stage | Why it is at risk |
 |---|---|---|---|
-| DL-65435 | $142,539 | Discovery | Prospect said: "Well, we are also looking at AcmeCorp right now. Performance kind agency lawyer carry." |
-| DL-28449 | $133,271 | Demo Scheduled | Prospect said: "Well, we are also looking at CloudSync right now. Born generation each article north." |
-| DL-23069 | $131,226 | Discovery | Prospect said: "We don't have the budget until Q3." |
-| DL-86484 | $127,042 | Discovery | Prospect said: "Well, we are also looking at AcmeCorp right now. Pretty here someone there remember remain." |
-| DL-82845 | $126,016 | Demo Scheduled | Prospect said: "We don't have the budget until Q3." |
+| DL-58571 | $148,379 | Technical Validation | Prospect said: "Well, we are also looking at CloudSync right now. Card against defense apply." |
+| DL-30028 | $143,350 | Technical Validation | Prospect said: "We don't have the budget until Q3." |
+| DL-81364 | $140,808 | Legal Review | No logged activity for 46 days (radio silence). |
+| DL-23970 | $140,235 | Demo Scheduled | Prospect said: "Our current tool does this just fine." |
+| DL-34164 | $138,569 | Discovery | Prospect said: "Well, we are also looking at AcmeCorp right now. Water perhaps want poor maintain set like." |
 
 ## Hygiene status
 
-213 deterministic fixes applied with an audit trail; 63 flags waiting for human review:
-- 23 x `free_email_domain`
-- 22 x `picklist_violation`
+233 deterministic fixes applied with an audit trail; 55 flags waiting for human review:
+- 20 x `picklist_violation`
+- 17 x `free_email_domain`
 - 12 x `possible_duplicate`
 - 6 x `stale_deal`
 

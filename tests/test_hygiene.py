@@ -14,6 +14,30 @@ def test_lowercase_names_are_fixed_with_audit_trail(deal_factory):
     assert name_fixes[0].reason  # audit trail requires a reason
 
 
+def test_stray_whitespace_is_trimmed_before_other_checks(deal_factory):
+    deal = deal_factory(
+        first_name=" jane",
+        company_name="Initech  ",
+        email=" JANE.DOE@initech.com ".lower(),
+    )
+    cleaned, report = run_hygiene([deal])
+
+    assert cleaned[0].first_name == "Jane"  # trimmed first, then case-fixed
+    assert cleaned[0].company_name == "Initech"
+    assert cleaned[0].email == "jane.doe@initech.com"
+    whitespace_fixes = [f for f in report.fixes if "whitespace" in f.reason.lower()]
+    assert {f.field for f in whitespace_fixes} == {"first_name", "company_name", "email"}
+    assert all(f.new_value not in (f.old_value,) for f in whitespace_fixes)
+
+
+def test_trimming_unmasks_duplicates(deal_factory):
+    a = deal_factory(deal_id="DL-1", email="sam@initech.com")
+    b = deal_factory(deal_id="DL-2", email=" sam@initech.com ")
+    _, report = run_hygiene([a, b])
+    dup_flags = [f for f in report.flags if f.flag_type == "possible_duplicate"]
+    assert {f.deal_id for f in dup_flags} == {"DL-1", "DL-2"}
+
+
 def test_country_variants_normalize_to_iso3(deal_factory):
     variants = [("US", "USA"), ("United States", "USA"), ("UK", "GBR"), ("France", "FRA")]
     for variant, expected in variants:

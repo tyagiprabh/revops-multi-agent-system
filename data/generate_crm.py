@@ -50,6 +50,12 @@ def make_record():
         email = f"{first_name.lower()}{random.randint(1, 99)}@gmail.com"
     source = random.choice(VALID_SOURCES) if random.random() > 0.1 else "Referral (Old)"
 
+    # Stray whitespace from copy-paste entry (agent should trim deterministically)
+    if random.random() < 0.08:
+        company = random.choice([f"  {company}", f"{company}  ", f" {company} "])
+    if random.random() < 0.05:
+        first_name = f" {first_name}"
+
     return {
         "deal_id": f"DL-{fake.unique.random_int(min=10000, max=99999)}",
         "first_name": first_name,

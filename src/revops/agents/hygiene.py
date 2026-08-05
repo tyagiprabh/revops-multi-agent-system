@@ -16,6 +16,27 @@ from ..data_dictionary import (
 )
 from ..schemas import Deal, FixAction, Flag, HygieneReport
 
+_TRIMMABLE_FIELDS = ["first_name", "last_name", "email", "company_name"]
+
+
+def _fix_whitespace(deal: Deal, fixes: list[FixAction]) -> None:
+    """Strip padding and collapse doubled spaces. Runs before every other
+    check so downstream matching (duplicates, domains) sees clean values."""
+    for field in _TRIMMABLE_FIELDS:
+        value = getattr(deal, field)
+        trimmed = " ".join(value.split())
+        if trimmed != value:
+            fixes.append(
+                FixAction(
+                    deal_id=deal.deal_id,
+                    field=field,
+                    old_value=repr(value),
+                    new_value=trimmed,
+                    reason="Stray whitespace; removal is deterministic.",
+                )
+            )
+            setattr(deal, field, trimmed)
+
 
 def _fix_name_case(deal: Deal, field: str, fixes: list[FixAction]) -> None:
     value = getattr(deal, field)
@@ -148,6 +169,7 @@ def run_hygiene(deals: list[Deal]) -> tuple[list[Deal], HygieneReport]:
     flags: list[Flag] = []
 
     for deal in cleaned:
+        _fix_whitespace(deal, fixes)
         _fix_name_case(deal, "first_name", fixes)
         _fix_name_case(deal, "last_name", fixes)
         _fix_country(deal, fixes, flags)

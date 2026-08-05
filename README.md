@@ -62,23 +62,23 @@ pip install -e .
 python -m revops run
 ```
 
-Output on the committed sample data (206 CRM records, 106 call transcripts):
+Output on the committed sample data (206 CRM records, 101 call transcripts):
 
 ```text
-206 records -> 213 auto-fixes, 63 flags, 106 deals risk-assessed (39 High),
-36 without call data.
+206 records -> 233 auto-fixes, 55 flags, 101 deals risk-assessed (39 High),
+34 without call data.
 Reports written to reports/latest/
 ```
 
 A full pre-generated run is committed in [`reports/sample_run/`](reports/sample_run/),
 so you can read the three artifacts without running anything. An excerpt from the digest:
 
-> **$2,909,572** of ARR sits in **39** High risk deals (106 deals assessed, 36 without call data).
+> **$3,338,205** of ARR sits in **39** High risk deals (101 deals assessed, 34 without call data).
 >
 > | Deal | ARR | CRM stage | Why it is at risk |
 > |---|---|---|---|
-> | DL-65435 | $142,539 | Discovery | Prospect said: "Well, we are also looking at AcmeCorp right now." |
-> | DL-23069 | $131,226 | Discovery | Prospect said: "We don't have the budget until Q3." |
+> | DL-58571 | $148,379 | Technical Validation | Prospect said: "Well, we are also looking at CloudSync right now." |
+> | DL-30028 | $143,350 | Technical Validation | Prospect said: "We don't have the budget until Q3." |
 
 ## Live mode (Claude)
 
