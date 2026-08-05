@@ -1,0 +1,21 @@
+workspace_id,company_name,plan,data_residency,mrr,status
+WS-6305,Foster Inc,Business,US,2952.8,Active
+WS-2186,"Davis, Aguilar and Browning",Enterprise,US,9079.52,At Risk
+WS-4517,Miller Group,Business,US,2254.52,Active
+WS-2144,Davis Group,Business,US,3480.56,Active
+WS-1968,"Martinez, Walker and Burton",Enterprise,US,9080.98,Active
+WS-2013,"Richards, Williams and Walker",Business,US,3928.77,Active
+WS-3181,Barnes-Fernandez,Business,US,2257.42,At Risk
+WS-6054,"Cabrera, White and Perkins",Business,US,3448.38,Active
+WS-4078,Davis-Joseph,Business,US,1563.61,Active
+WS-1976,"Harris, Becker and Patterson",Business,US,1178.8,Active
+WS-6146,Richards-Chavez,Business,US,3331.69,Active
+WS-5911,Bauer Ltd,Business,US,1899.3,Active
+WS-4999,Andrews PLC,Business,US,2723.27,At Risk
+WS-9111,Blair-Roberts,Business,US,2346.5,Churned
+WS-2199,Hunt and Sons,Enterprise,US,7926.86,Active
+WS-6604,Mahoney Group,Business,US,1117.62,Active
+WS-1642,"Jones, Grant and Mccormick",Enterprise,US,11128.34,Active
+WS-6140,Dominguez-Wheeler,Business,US,2490.02,Active
+WS-8474,Larsen LLC,Business,US,1809.82,Active
+WS-8767,"Beck, Brown and Miles",Business,EU,2941.39,Active

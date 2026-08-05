@@ -94,6 +94,14 @@ the system prompt, and the response is validated against the same pydantic
 by Claude from the already-computed numbers. Model: `claude-opus-5` via the
 [structured outputs API](https://platform.claude.com/docs/en/build-with-claude/structured-outputs).
 
+For the smallest possible live example, [`run_claude_agent.py`](run_claude_agent.py) runs a
+single deal through the Pipeline Analyst and prints the structured assessment:
+
+```bash
+python run_claude_agent.py --list          # see assessable deals
+python run_claude_agent.py --deal DL-23069
+```
+
 ## Design decisions
 
 **Deterministic core, LLM judgment layer.** The hygiene agent never calls a model. Its
@@ -117,12 +125,13 @@ touching the pipeline.
 ## Repository layout
 
 ```text
-agents/           agent specs (markdown, platform-agnostic)
-data/             synthetic data generators + committed samples
-docs/             data dictionary
-src/revops/       package: schemas, agents, orchestrator, CLI
-reports/          committed sample run output
-tests/            pytest suite (runs offline)
+agents/               agent specs (markdown, platform-agnostic)
+data/                 synthetic data generators + committed samples
+docs/                 data dictionary
+src/revops/           package: schemas, agents, orchestrator, CLI
+reports/              committed sample run output
+tests/                pytest suite (runs offline)
+run_claude_agent.py   standalone live demo for a single deal
 ```
 
 ## Data
@@ -139,6 +148,16 @@ python data/generate_crm.py
 python data/generate_transcripts.py
 ```
 
+A fourth generator, [`data/generate_dust_telemetry.py`](data/generate_dust_telemetry.py),
+produces the ops side of running an agent fleet: workspaces, seats, deployed agents and
+30 days of per-invocation telemetry (status, model, credit burn). It backs the
+usage-analytics work on the roadmap and is independent of the CRM demo:
+
+```bash
+python data/generate_dust_telemetry.py        # 20 workspaces, 3,000 events
+python data/generate_dust_telemetry.py 50 16000
+```
+
 ## Tests
 
 ```bash
@@ -153,6 +172,8 @@ CI runs lint, the test suite on Python 3.9 and 3.12, and a full demo run on ever
 - Salesforce connector so the hygiene agent runs against a real CRM sandbox instead of CSV
 - Slack delivery of the weekly digest (n8n webhook)
 - A forecast agent that reconciles rep commit against the analyst's risk scores
+- A usage-analytics agent over the agent-fleet telemetry dataset (adoption, error rates,
+  credit burn per model)
 
 ## License
 
