@@ -1,207 +1,207 @@
 deal_id,first_name,last_name,email,company_name,country,lead_source,deal_stage,company_size,arr_value,last_activity_days_ago
-DL-84000,Carla,Smith,carla.smith@sanchez-martinez.com,Sanchez-Martinez,France,Events,Technical Validation,1-50,110426.79,2
-DL-56898,Angela,Jordan,angela.jordan@parkerinc.com,Parker Inc,Great Britain,Events,Closed Lost,1000+,125432.53,12
-DL-48452,Scott,Benson,scott.benson@williamsinc.com,Williams Inc,USA,Direct,Demo Scheduled,201-1000,92725.85,10
-DL-82544,Christopher,Walker,christopher.walker@sanchezbeckandwood.com,"Sanchez, Beck and Wood",United States,Referral (Old),Legal Review,51-200,77161.75,13
-DL-45054,Christina,Day,christina.day@lynchltd.com,Lynch Ltd,Great Britain,Partner,Closed Won,1-50,51271.8,9
-DL-70217,Christopher,Davis,christopher.davis@munoz-roman.com,Munoz-Roman,UK,Organic,Legal Review,201-1000,70744.49,26
-DL-23434,Danielle,Johnson,danielle.johnson@sanchez-taylor.com,Sanchez-Taylor,USA,Outbound SDR,Closed Lost,1-50,103121.43,32
-DL-97900,jonathan,fletcher,jonathan.fletcher@meyerplc.com,Meyer PLC,GBR,Partner,Demo Scheduled,1-50,117779.82,3
-DL-65435,anna,santiago,anna.santiago@gomez-ortega.com,Gomez-Ortega,Great Britain,Organic,Discovery,1-50,142539.29,21
-DL-53309,Jeffrey,Jones,jeffrey66@gmail.com,"Brown, Jones and Johnson",United States,Referral (Old),Demo Scheduled,1-50,91280.09,16
-DL-79822,Stacey,Miller,stacey.miller@cabrera-spence.com,Cabrera-Spence,US,G2,Demo Scheduled,1000+,31605.77,9
-DL-64524,Russell,Beasley,russell.beasley@morgan-chavez.com,Morgan-Chavez,FRA,Referral (Old),Technical Validation,1-50,70246.3,16
-DL-67939,Robert,Lopez,robert.lopez@dean-jimenez.com,Dean-Jimenez,US,G2,Closed Lost,1-50,145417.8,13
-DL-59986,Megan,Gonzalez,megan.gonzalez@castaneda-rodriguez.com,Castaneda-Rodriguez,United States,Direct,Closed Lost,1-50,98673.6,8
-DL-97806,angel,doyle,angel53@gmail.com,Patton-Jenkins,GBR,G2,Legal Review,1-50,34990.99,8
-DL-55309,Gregory,Estes,gregory.estes@johnson-carlson.com,Johnson-Carlson,US,Organic,Technical Validation,51-200,99270.89,22
-DL-82845,Tricia,Baker,tricia.baker@mitchell-horton.com,Mitchell-Horton,FRA,Direct,Demo Scheduled,1-50,126016.28,13
-DL-63271,Angela,Black,angela.black@millerltd.com,Miller Ltd,UK,G2,Discovery,1-50,69333.39,17
-DL-83048,Karen,Perez,karen.perez@ramseywhitneyandcoffey.com,"Ramsey, Whitney and Coffey",FRA,Organic,Technical Validation,51-200,9087.19,38
-DL-93320,Tracie,Wyatt,tracie.wyatt@jamesgroup.com,James Group,GBR,G2,Technical Validation,1-50,35592.51,41
-DL-55830,Monica,Garrison,monica.garrison@gonzalezgroup.com,Gonzalez Group,FRA,Events,Demo Scheduled,1000+,36816.14,9
-DL-23173,Wendy,Francis,wendy37@gmail.com,Good-Hodges,USA,Referral (Old),Discovery,1000+,72093.19,12
-DL-91490,michael,farmer,michael.farmer@perezpattersonandhoffman.com,"Perez, Patterson and Hoffman",FRA,Events,Demo Scheduled,201-1000,129915.34,6
-DL-84085,Beth,Williams,beth.williams@barnesplc.com,Barnes PLC,GBR,Organic,Technical Validation,201-1000,98014.85,8
-DL-12671,Jeffrey,Jones,jeffrey.jones@williamsjohnsonandwright.com,"Williams, Johnson and Wright",USA,Partner,Discovery,1000+,130412.03,25
-DL-13905,erica,mcclain,erica12@gmail.com,Garza Inc,FRA,Events,Closed Won,1-50,86380.53,18
-DL-62531,Shane,Cox,shane.cox@rodriguezgordonanddougherty.com,"Rodriguez, Gordon and Dougherty",GBR,Referral (Old),Legal Review,1000+,80073.06,3
-DL-85748,Miranda,Griffith,miranda.griffith@burke-bell.com,Burke-Bell,GBR,Direct,Discovery,1000+,133904.55,12
-DL-48684,Alyssa,Mcintyre,alyssa.mcintyre@scottgroup.com,Scott Group,US,Organic,Technical Validation,1-50,115651.94,5
-DL-74340,Brandon,Brown,brandon.brown@terry-martinez.com,Terry-Martinez,United States,Direct,Discovery,201-1000,119348.52,1
-DL-66346,Ashley,Sullivan,ashley.sullivan@torresandsons.com,Torres and Sons,FRA,G2,Closed Lost,51-200,68145.64,19
-DL-32962,Brenda,Smith,brenda.smith@underwoodjohnstonandhines.com,"Underwood, Johnston and Hines",UK,Organic,Legal Review,1000+,66809.67,2
-DL-36365,monique,henderson,monique.henderson@hickmanltd.com,Hickman Ltd,US,Outbound SDR,Legal Review,1000+,74796.97,28
-DL-66207,kimberly,james,kimberly.james@evans-chapman.com,Evans-Chapman,GBR,Events,Technical Validation,51-200,98909.6,15
-DL-22999,amy,nguyen,amy.nguyen@schmidtchavezandjacobs.com,"Schmidt, Chavez and Jacobs",GBR,G2,Discovery,201-1000,85333.11,7
-DL-74454,Tammy,King,tammy.king@wilson-jones.com,Wilson-Jones,UK,G2,Technical Validation,201-1000,121613.72,9
-DL-68008,Stephen,Solis,stephen.solis@schmidthansenandstewart.com,"Schmidt, Hansen and Stewart",UK,Partner,Demo Scheduled,201-1000,31019.02,1
-DL-38010,Kristi,Lawson,kristi.lawson@marshall-ramos.com,Marshall-Ramos,UK,G2,Legal Review,1000+,124731.52,13
-DL-90676,angela,lee,angela.lee@bentleybyrdandorr.com,"Bentley, Byrd and Orr",FRA,Referral (Old),Closed Lost,201-1000,6834.56,8
-DL-15683,Shane,Cox,shane.cox@rodriguezgordonanddougherty.com,"Rodriguez, Gordon and Dougherty",GBR,Referral (Old),Demo Scheduled,1000+,80073.06,35
-DL-46241,Stephanie,Vaughn,stephanie.vaughn@robinsongroup.com,Robinson Group,GBR,Partner,Closed Lost,201-1000,8181.24,25
-DL-30032,william,rodriguez,william.rodriguez@evansfowlerandlynch.com,"Evans, Fowler and Lynch",US,Organic,Closed Won,51-200,45379.2,10
-DL-45976,Ashley,Andrews,ashley.andrews@phillipsspenceandbarrett.com,"Phillips, Spence and Barrett",Great Britain,Partner,Legal Review,51-200,37848.74,3
-DL-27038,Kim,Kramer,kim.kramer@smithgarrisonandthomas.com,"Smith, Garrison and Thomas",France,Referral (Old),Technical Validation,1000+,44810.53,55
-DL-92242,Erica,Le,erica.le@beckertayloranddavis.com,"Becker, Taylor and Davis",GBR,Direct,Legal Review,51-200,82431.62,6
-DL-79329,Eric,Bass,eric.bass@turnerriggsandroman.com,"Turner, Riggs and Roman",FRA,Events,Closed Won,201-1000,63880.9,26
-DL-96159,Terrance,Costa,terrance.costa@hanson-sanders.com,Hanson-Sanders,United States,Outbound SDR,Legal Review,51-200,115231.22,40
-DL-91987,Kevin,Oliver,kevin.oliver@choigarciaandfarmer.com,"Choi, Garcia and Farmer",UK,Organic,Discovery,201-1000,149409.47,2
-DL-81364,Sean,Young,sean26@gmail.com,Garcia-Jennings,France,Referral (Old),Demo Scheduled,1-50,50761.39,6
-DL-23970,Reginald,Hernandez,reginald.hernandez@smithpotterandcarrillo.com,"Smith, Potter and Carrillo",Great Britain,G2,Closed Lost,201-1000,56012.53,9
-DL-16175,reginald,robinson,reginald.robinson@hicksinc.com,Hicks Inc,Great Britain,Events,Discovery,201-1000,75847.83,2
-DL-28776,Samantha,Schmidt,samantha.schmidt@yuinc.com,Yu Inc,Great Britain,Direct,Demo Scheduled,51-200,43686.83,64
-DL-28449,Julie,Morgan,julie.morgan@mcdonaldinc.com,Mcdonald Inc,United States,Referral (Old),Demo Scheduled,1000+,133271.32,38
-DL-29528,donna,peck,donna28@gmail.com,Wilson-Walker,France,Events,Discovery,1-50,119085.22,4
-DL-88172,Michelle,Hernandez,michelle.hernandez@connergroup.com,Conner Group,UK,Events,Discovery,1-50,111126.6,24
-DL-19508,Joseph,Anderson,joseph.anderson@evansstewartandwalton.com,"Evans, Stewart and Walton",Great Britain,Organic,Legal Review,51-200,41934.76,18
-DL-27146,Christopher,Henderson,christopher.henderson@williams-cook.com,Williams-Cook,France,Outbound SDR,Closed Lost,1000+,76684.69,4
-DL-33777,Anthony,Nelson,anthony.nelson@dorsey-bell.com,Dorsey-Bell,GBR,Referral (Old),Legal Review,1000+,40999.19,29
-DL-44237,darlene,ross,darlene.ross@riverajohnsonandwiley.com,"Rivera, Johnson and Wiley",FRA,Partner,Legal Review,201-1000,114041.42,25
-DL-47353,david,bailey,david.bailey@suarezllc.com,Suarez LLC,UK,Partner,Legal Review,201-1000,85389.81,3
-DL-19120,Katie,Boyd,katie.boyd@allengonzalesandreeves.com,"Allen, Gonzales and Reeves",USA,Partner,Discovery,51-200,22175.48,51
-DL-93819,Stacy,Holloway,stacy.holloway@batesltd.com,Bates Ltd,UK,G2,Closed Lost,1000+,134722.44,7
-DL-58571,Caroline,Martinez,caroline.martinez@pattonreedandpatterson.com,"Patton, Reed and Patterson",FRA,Partner,Discovery,201-1000,110277.39,26
-DL-44760,albert,howell,albert.howell@ferrelljonesandlewis.com,"Ferrell, Jones and Lewis",GBR,Referral (Old),Closed Lost,201-1000,95357.53,16
-DL-41285,Alexandra,Donovan,alexandra.donovan@santiagollc.com,Santiago LLC,Great Britain,Partner,Demo Scheduled,201-1000,10547.29,13
-DL-60140,Michelle,Cochran,michelle.cochran@moore-haynes.com,Moore-Haynes,USA,G2,Legal Review,1-50,141697.54,5
-DL-84364,Sarah,Koch,sarah.koch@allen-allen.com,Allen-Allen,France,Referral (Old),Closed Lost,1-50,13788.84,19
-DL-20527,Terrance,Costa,terrance.costa@hanson-sanders.com,Hanson-Sanders,United States,Outbound SDR,Demo Scheduled,51-200,115231.22,15
-DL-99687,Brittany,Rivas,brittany.rivas@garciallc.com,Garcia LLC,France,Events,Closed Won,51-200,130283.91,5
-DL-38183,Laura,Wilson,laura.wilson@curtismackandle.com,"Curtis, Mack and Le",United States,Referral (Old),Technical Validation,1000+,149941.28,18
-DL-91226,Laura,Jackson,laura.jackson@lynchgroup.com,Lynch Group,France,Events,Demo Scheduled,201-1000,59063.54,5
-DL-27892,tina,sanchez,tina.sanchez@thomasleeandgreene.com,"Thomas, Lee and Greene",UK,Events,Closed Won,1-50,133084.62,3
-DL-58689,Miguel,Curry,miguel28@gmail.com,Richards-Carson,US,Events,Closed Lost,1000+,21122.09,5
-DL-45018,Michelle,Hill,michelle.hill@morgan-french.com,Morgan-French,USA,Direct,Legal Review,1000+,93026.02,8
-DL-26334,James,Reynolds,james.reynolds@mccallhansonandalvarado.com,"Mccall, Hanson and Alvarado",USA,G2,Legal Review,51-200,16019.49,17
-DL-11504,Bryan,James,bryan.james@rice-maddox.com,Rice-Maddox,United States,Events,Demo Scheduled,201-1000,81512.7,14
-DL-47930,Christine,Hensley,christine.hensley@leejonesandstanley.com,"Lee, Jones and Stanley",United States,Direct,Closed Lost,51-200,104269.07,26
-DL-34164,Curtis,Smith,curtis38@gmail.com,Harrison-Alexander,United States,G2,Demo Scheduled,51-200,24163.17,11
-DL-30861,Cheyenne,Ball,cheyenne7@gmail.com,"Simmons, Meadows and Griffin",UK,Direct,Demo Scheduled,1000+,19875.21,1
-DL-34914,Jessica,Edwards,jessica.edwards@joycewilsonandlam.com,"Joyce, Wilson and Lam",USA,Organic,Closed Won,51-200,39589.02,9
-DL-18161,Jasmine,Brown,jasmine.brown@rivera-owens.com,Rivera-Owens,US,Outbound SDR,Technical Validation,1-50,27773.28,3
-DL-25860,Jennifer,Ross,jennifer.ross@santoskimandholmes.com,"Santos, Kim and Holmes",United States,Partner,Legal Review,201-1000,66336.09,45
-DL-24663,Dana,Green,dana.green@ramosthorntonandhoffman.com,"Ramos, Thornton and Hoffman",USA,Organic,Legal Review,51-200,30503.57,45
-DL-33416,ryan,chavez,ryan3@gmail.com,"Liu, Baker and Mason",GBR,Outbound SDR,Closed Won,51-200,6042.67,18
-DL-49857,Kaitlyn,Carroll,kaitlyn.carroll@gonzales-harrison.com,Gonzales-Harrison,USA,Outbound SDR,Closed Won,201-1000,120784.5,2
-DL-34356,Samantha,Schmidt,samantha.schmidt@yuinc.com,Yu Inc,Great Britain,Direct,Closed Lost,51-200,43686.83,22
-DL-64040,terri,brady,terri.brady@hancockandsons.com,Hancock and Sons,UK,Events,Discovery,51-200,26870.45,7
-DL-30006,Jessica,Edwards,jessica.edwards@ortega-brooks.com,Ortega-Brooks,United States,Events,Discovery,1-50,80124.81,6
-DL-57953,Christopher,Phillips,christopher.phillips@perrygonzalezandbuchanan.com,"Perry, Gonzalez and Buchanan",FRA,Events,Demo Scheduled,201-1000,12566.07,10
-DL-53064,Jamie,Gallegos,jamie.gallegos@clarkrobinsonandkane.com,"Clark, Robinson and Kane",United States,Organic,Technical Validation,201-1000,49441.9,13
-DL-65255,Jason,Murphy,jason.murphy@ramirez-bean.com,Ramirez-Bean,France,Events,Legal Review,1000+,145513.01,9
-DL-50189,Alyssa,Coleman,alyssa.coleman@piercebellandchavez.com,"Pierce, Bell and Chavez",UK,G2,Technical Validation,51-200,15709.98,41
-DL-73532,Kathleen,Harris,kathleen.harris@andersonrobertsandgilmore.com,"Anderson, Roberts and Gilmore",GBR,Organic,Technical Validation,201-1000,21658.37,5
-DL-98259,Donna,Gomez,donna.gomez@owens-daniel.com,Owens-Daniel,France,Organic,Discovery,1000+,95068.09,12
-DL-21003,tina,ferguson,tina.ferguson@vargas-alvarado.com,Vargas-Alvarado,USA,Events,Technical Validation,1-50,18242.4,46
-DL-22978,Robert,Newton,robert.newton@mcclureltd.com,Mcclure Ltd,Great Britain,Organic,Closed Won,201-1000,24344.39,7
-DL-27601,Alan,Montoya,alan.montoya@huynh-garcia.com,Huynh-Garcia,GBR,Direct,Technical Validation,1000+,69058.97,16
-DL-46347,Julia,Wells,julia.wells@walton-larsen.com,Walton-Larsen,France,Organic,Technical Validation,1000+,21542.64,1
-DL-12260,Tracy,Chang,tracy.chang@alvarezjosephandwest.com,"Alvarez, Joseph and West",USA,Referral (Old),Technical Validation,201-1000,67449.58,4
-DL-75836,Paul,Alvarado,paul.alvarado@pollardsimpsonandjohnson.com,"Pollard, Simpson and Johnson",US,Outbound SDR,Closed Won,1000+,125643.76,36
-DL-86724,Charles,Miller,charles.miller@hernandezmartinezandweber.com,"Hernandez, Martinez and Weber",UK,Direct,Closed Lost,51-200,120085.98,10
-DL-24662,Nathaniel,Martin,nathaniel.martin@sellersgeorgeandburns.com,"Sellers, George and Burns",France,G2,Demo Scheduled,1-50,19054.97,8
-DL-28595,Alan,Montoya,alan.montoya@huynh-garcia.com,Huynh-Garcia,GBR,Direct,Closed Won,1000+,69058.97,59
-DL-80236,John,Martinez,john.martinez@stewartltd.com,Stewart Ltd,UK,Partner,Legal Review,201-1000,33886.46,7
-DL-92397,amanda,dudley,amanda.dudley@miller-carter.com,Miller-Carter,Great Britain,Direct,Closed Lost,1-50,93324.0,3
-DL-19838,Jason,Guerrero,jason.guerrero@allenplc.com,Allen PLC,United States,Direct,Closed Lost,1000+,90164.35,19
-DL-84847,Chad,Young,chad.young@washingtonryanandcummings.com,"Washington, Ryan and Cummings",US,Events,Closed Won,1-50,94810.32,8
-DL-68115,Martha,Gilbert,martha.gilbert@johnson-wood.com,Johnson-Wood,United States,Direct,Legal Review,51-200,122667.16,1
-DL-87993,rebekah,serrano,rebekah98@gmail.com,Brown LLC,GBR,Events,Demo Scheduled,51-200,52641.14,3
-DL-78386,Ryan,Cox,ryan.cox@zimmerman-graham.com,Zimmerman-Graham,Great Britain,Outbound SDR,Closed Won,1000+,38866.55,21
-DL-66606,gloria,wells,gloria.wells@deckerinc.com,Decker Inc,GBR,Partner,Discovery,201-1000,33463.78,44
-DL-52992,Daniel,Hall,daniel.hall@harveyplc.com,Harvey PLC,USA,Events,Legal Review,1-50,21074.39,33
-DL-70637,John,Lee,john.lee@taylor-white.com,Taylor-White,UK,Direct,Closed Won,1-50,101840.16,12
-DL-35313,kevin,pope,kevin.pope@walkerltd.com,Walker Ltd,Great Britain,Direct,Demo Scheduled,1000+,138333.53,56
-DL-82910,William,Moore,william.moore@walker-rodriguez.com,Walker-Rodriguez,UK,Direct,Legal Review,201-1000,70763.9,17
-DL-30926,Robert,Cole,robert.cole@pacheco-smith.com,Pacheco-Smith,Great Britain,Partner,Technical Validation,201-1000,122033.6,19
-DL-40735,Katie,Boyd,katie.boyd@allengonzalesandreeves.com,"Allen, Gonzales and Reeves",USA,Partner,Discovery,51-200,22175.48,21
-DL-52906,Dawn,Taylor,dawn.taylor@white-green.com,White-Green,USA,Partner,Closed Won,1-50,115650.81,3
-DL-45954,Jeremy,White,jeremy.white@ericksonandsons.com,Erickson and Sons,GBR,Direct,Demo Scheduled,201-1000,103275.85,18
-DL-26011,Rachel,Newman,rachel.newman@sandersandsons.com,Sanders and Sons,France,Outbound SDR,Technical Validation,201-1000,130010.09,1
-DL-49608,Rose,Walker,rose.walker@reidgroup.com,Reid Group,USA,Direct,Demo Scheduled,201-1000,67239.64,14
-DL-41963,Joseph,Christian,joseph.christian@ramirezgroup.com,Ramirez Group,Great Britain,G2,Discovery,1000+,7225.4,3
-DL-75909,Jill,Brown,jill.brown@brown-silva.com,Brown-Silva,FRA,Outbound SDR,Demo Scheduled,51-200,132805.35,1
-DL-74799,Robert,Soto,robert.soto@higginsgroup.com,Higgins Group,France,Organic,Discovery,201-1000,37131.48,17
-DL-86350,Charles,Ware,charles.ware@gardnerllc.com,Gardner LLC,USA,Organic,Legal Review,51-200,121205.41,16
-DL-86484,Joseph,Wright,joseph.wright@ryanburgessandpatterson.com,"Ryan, Burgess and Patterson",UK,Events,Discovery,201-1000,127042.06,10
-DL-11792,David,Dudley,david.dudley@lloydmckinneyandcollins.com,"Lloyd, Mckinney and Collins",FRA,Events,Closed Won,1-50,93304.26,16
-DL-64921,Omar,Smith,omar30@gmail.com,Evans-Price,France,Direct,Closed Won,51-200,66645.15,12
-DL-50888,Kimberly,Martin,kimberly.martin@rodriguez-johnson.com,Rodriguez-Johnson,United States,Referral (Old),Legal Review,1-50,37581.6,26
-DL-23396,Helen,Peterson,helen38@gmail.com,Lewis LLC,FRA,Events,Technical Validation,51-200,107162.92,1
-DL-19807,Alicia,Bryant,alicia82@gmail.com,"Thomas, Pitts and Booker",United States,Events,Demo Scheduled,201-1000,55909.46,45
-DL-94896,Andrea,Davis,andrea.davis@murrayinc.com,Murray Inc,USA,Partner,Technical Validation,201-1000,5885.34,29
-DL-66626,Holly,Bender,holly31@gmail.com,"Fernandez, Kim and George",United States,Organic,Demo Scheduled,201-1000,12597.86,19
-DL-30706,Elizabeth,Nolan,elizabeth.nolan@santana-byrd.com,Santana-Byrd,UK,Events,Demo Scheduled,201-1000,16817.79,16
-DL-74569,Debra,Wilson,debra.wilson@shahllc.com,Shah LLC,FRA,Events,Technical Validation,1-50,143243.53,11
-DL-42850,Kimberly,Hall,kimberly.hall@robinson-lee.com,Robinson-Lee,FRA,Direct,Closed Won,51-200,109571.53,1
-DL-25906,Kimberly,Robinson,kimberly.robinson@holmeswilliamsandwright.com,"Holmes, Williams and Wright",GBR,Organic,Closed Lost,51-200,32773.44,19
-DL-27224,Debbie,Parker,debbie.parker@johnson-diaz.com,Johnson-Diaz,France,Direct,Closed Won,1000+,71943.6,5
-DL-42271,casey,jones,casey.jones@powellplc.com,Powell PLC,USA,G2,Technical Validation,201-1000,123977.78,29
-DL-30028,Joseph,Flores,joseph.flores@millerhernandezandreyes.com,"Miller, Hernandez and Reyes",GBR,G2,Technical Validation,1000+,49280.14,14
-DL-85456,jamie,fisher,jamie.fisher@shahsmithandgilmore.com,"Shah, Smith and Gilmore",USA,G2,Technical Validation,1-50,38564.05,18
-DL-73956,melissa,phelps,melissa.phelps@jamesstewartandhiggins.com,"James, Stewart and Higgins",France,Events,Legal Review,201-1000,130315.8,14
-DL-25194,Lisa,Pierce,lisa.pierce@miller-king.com,Miller-King,Great Britain,Outbound SDR,Closed Lost,1000+,14734.33,25
-DL-85914,dorothy,tucker,dorothy47@gmail.com,Phillips Inc,United States,Organic,Technical Validation,51-200,103899.67,16
-DL-39581,Christopher,Wright,christopher.wright@duranobrienandgibbs.com,"Duran, Obrien and Gibbs",US,Direct,Technical Validation,1000+,124250.51,40
-DL-70552,tara,powell,tara.powell@bryansmithandbooth.com,"Bryan, Smith and Booth",US,Outbound SDR,Closed Won,1-50,90037.44,12
-DL-87304,Jacqueline,Gibson,jacqueline88@gmail.com,"Hall, Baker and Moody",Great Britain,Direct,Technical Validation,1-50,62730.25,3
-DL-73654,Amanda,Navarro,amanda.navarro@hurstfreemanandnelson.com,"Hurst, Freeman and Nelson",UK,Referral (Old),Demo Scheduled,201-1000,91281.39,25
-DL-31798,Brent,Kidd,brent.kidd@novakandsons.com,Novak and Sons,GBR,Events,Legal Review,201-1000,136273.79,27
-DL-99593,Mary,Martin,mary.martin@clark-adams.com,Clark-Adams,Great Britain,Direct,Legal Review,51-200,43407.62,4
-DL-32838,Alexis,Tyler,alexis9@gmail.com,Chapman Inc,France,Direct,Technical Validation,201-1000,60513.89,12
-DL-31417,Deborah,Lynch,deborah.lynch@fergusonandsons.com,Ferguson and Sons,UK,Events,Legal Review,201-1000,36801.51,85
-DL-93202,Thomas,Pearson,thomas11@gmail.com,White-Richards,France,Outbound SDR,Discovery,51-200,44877.32,15
-DL-27275,Amber,Lindsey,amber.lindsey@guerreroinc.com,Guerrero Inc,US,Events,Closed Lost,51-200,143154.46,3
-DL-62488,Daniel,Martin,daniel.martin@steele-roberts.com,Steele-Roberts,GBR,G2,Technical Validation,1000+,62815.88,19
-DL-43466,Felicia,Jimenez,felicia.jimenez@thomasmurrayandking.com,"Thomas, Murray and King",Great Britain,Referral (Old),Closed Lost,201-1000,14557.22,2
-DL-16658,James,Walters,james.walters@wagner-king.com,Wagner-King,UK,Organic,Discovery,51-200,147670.72,14
-DL-10282,richard,olson,richard.olson@barrera-martin.com,Barrera-Martin,FRA,Referral (Old),Technical Validation,51-200,97381.44,5
-DL-72422,Joseph,Martinez,joseph.martinez@fox-reese.com,Fox-Reese,France,Organic,Closed Won,51-200,81771.68,8
-DL-84946,Stanley,Morris,stanley.morris@pollardandsons.com,Pollard and Sons,United States,Outbound SDR,Closed Won,201-1000,15450.95,28
-DL-26728,Anthony,Rogers,anthony.rogers@yatesramseyandpittman.com,"Yates, Ramsey and Pittman",France,Direct,Legal Review,201-1000,77568.47,10
-DL-19961,barbara,odonnell,barbara.odonnell@sanders-espinoza.com,Sanders-Espinoza,US,Direct,Technical Validation,201-1000,65246.1,10
-DL-87656,tammy,nelson,tammy.nelson@hamptonmarshallandpetersen.com,"Hampton, Marshall and Petersen",France,G2,Closed Lost,51-200,76822.65,1
-DL-79163,Katie,Anderson,katie.anderson@arroyo-martin.com,Arroyo-Martin,US,Events,Discovery,1-50,99561.01,11
-DL-24322,denise,lucas,denise.lucas@powellllc.com,Powell LLC,GBR,Partner,Discovery,51-200,58581.43,3
-DL-22704,Barbara,Sanchez,barbara.sanchez@aguirre-lee.com,Aguirre-Lee,Great Britain,Direct,Technical Validation,51-200,43514.1,2
-DL-69878,Charles,Landry,charles.landry@evanshaydenandvaughn.com,"Evans, Hayden and Vaughn",UK,G2,Demo Scheduled,1-50,49889.37,7
-DL-47512,alan,grimes,alan.grimes@beltranlozanoandmcgee.com,"Beltran, Lozano and Mcgee",US,Direct,Closed Won,1-50,100979.74,30
-DL-92960,William,Leon,william.leon@jacksonmillerandrobertson.com,"Jackson, Miller and Robertson",GBR,Referral (Old),Legal Review,51-200,113819.06,12
-DL-96499,Lori,Campbell,lori.campbell@monroe-carpenter.com,Monroe-Carpenter,US,Direct,Closed Lost,1000+,81405.45,6
-DL-49824,charles,soto,charles.soto@hernandezplc.com,Hernandez PLC,GBR,G2,Closed Won,201-1000,18093.92,8
-DL-97835,Lisa,Costa,lisa.costa@bailey-cook.com,Bailey-Cook,Great Britain,Partner,Legal Review,1000+,19380.88,17
-DL-23833,Casey,Holland,casey.holland@atkinsongroup.com,Atkinson Group,France,G2,Technical Validation,201-1000,85028.03,11
-DL-48469,Erin,Wilson,erin.wilson@pottermackandpeterson.com,"Potter, Mack and Peterson",GBR,Direct,Closed Lost,201-1000,68524.51,11
-DL-83608,Colin,Rodgers,colin.rodgers@hawkinsplc.com,Hawkins PLC,UK,Referral (Old),Closed Lost,51-200,90812.22,13
-DL-59441,Tracy,Hernandez,tracy39@gmail.com,"Washington, Cook and Hines",USA,Outbound SDR,Technical Validation,201-1000,52577.74,1
-DL-38569,christine,allen,christine.allen@caldwell-elliott.com,Caldwell-Elliott,France,Partner,Closed Won,1000+,95684.27,20
-DL-54942,Joseph,Preston,joseph.preston@trannelsonandjacobs.com,"Tran, Nelson and Jacobs",United States,Direct,Closed Lost,201-1000,18541.14,43
-DL-59968,patrick,chase,patrick.chase@williams-garner.com,Williams-Garner,USA,Referral (Old),Technical Validation,1000+,88142.95,18
-DL-23069,tammy,rivera,tammy.rivera@sawyergroup.com,Sawyer Group,US,Events,Discovery,1000+,131226.04,20
-DL-28726,Nancy,Edwards,nancy.edwards@porterwilkersonandday.com,"Porter, Wilkerson and Day",UK,Partner,Legal Review,51-200,70789.94,44
-DL-33834,Karen,Hudson,karen34@gmail.com,"Gray, Johnson and Rosales",United States,Direct,Legal Review,1-50,128505.97,27
-DL-17331,Steven,Nelson,steven.nelson@wattsrobinsonandnguyen.com,"Watts, Robinson and Nguyen",US,Outbound SDR,Closed Lost,51-200,119851.51,8
-DL-17972,jessica,kerr,jessica.kerr@boydellisandmaynard.com,"Boyd, Ellis and Maynard",UK,Events,Technical Validation,1000+,34025.86,3
-DL-46211,Tony,Kelly,tony.kelly@peterson-beard.com,Peterson-Beard,FRA,G2,Closed Won,1-50,94531.62,4
-DL-25012,Steven,Scott,steven.scott@jackson-lawson.com,Jackson-Lawson,United States,Direct,Legal Review,1-50,9186.07,14
-DL-68138,yolanda,boone,yolanda.boone@parks-henry.com,Parks-Henry,United States,Organic,Closed Lost,201-1000,101836.77,18
-DL-48752,Jennifer,Evans,jennifer.evans@estrada-nguyen.com,Estrada-Nguyen,US,Direct,Closed Won,1-50,120452.95,12
-DL-22833,John,Leblanc,john.leblanc@morton-chase.com,Morton-Chase,US,Organic,Discovery,51-200,44490.49,13
-DL-48829,Jenny,Bray,jenny.bray@carlsonhooperandwall.com,"Carlson, Hooper and Wall",USA,Direct,Discovery,1000+,125761.64,33
-DL-87128,John,Brown,john.brown@chapmanandsons.com,Chapman and Sons,France,Organic,Closed Won,1-50,113456.46,1
-DL-81426,Clayton,Hall,clayton.hall@johnsongonzalezandsantos.com,"Johnson, Gonzalez and Santos",FRA,Organic,Demo Scheduled,1000+,54336.32,3
-DL-73242,Marilyn,Jimenez,marilyn95@gmail.com,"Carter, Thornton and Perry",FRA,Organic,Discovery,51-200,59548.19,9
-DL-69692,Dylan,Williams,dylan.williams@carr-mack.com,Carr-Mack,UK,Outbound SDR,Discovery,51-200,109410.83,10
-DL-47056,Eric,Ortiz,eric.ortiz@wheelercarterandhall.com,"Wheeler, Carter and Hall",US,Partner,Discovery,201-1000,36504.1,9
-DL-80804,Darren,Young,darren.young@taylorchavezandsantiago.com,"Taylor, Chavez and Santiago",USA,Direct,Legal Review,201-1000,41779.29,1
-DL-69609,Michael,Gibbs,michael.gibbs@bakerinc.com,Baker Inc,Great Britain,Partner,Legal Review,51-200,115031.97,9
-DL-99364,Michael,Jordan,michael.jordan@schmidtplc.com,Schmidt PLC,France,Partner,Closed Lost,1-50,78159.61,3
-DL-85392,Jessica,Munoz,jessica.munoz@davisltd.com,Davis Ltd,US,Events,Closed Won,1-50,70540.79,4
-DL-36100,Christine,Davis,christine42@gmail.com,Chambers and Sons,Great Britain,Outbound SDR,Technical Validation,201-1000,54349.13,30
-DL-84228,jamie,fisher,jamie.fisher@shahsmithandgilmore.com,"Shah, Smith and Gilmore",USA,G2,Closed Won,1-50,38564.05,60
-DL-84341,jeremy,johnson,jeremy.johnson@morales-jones.com,Morales-Jones,FRA,Partner,Closed Won,1-50,103641.09,2
-DL-55870,Johnny,Miller,johnny.miller@curryinc.com,Curry Inc,Great Britain,Partner,Legal Review,1000+,46791.58,41
-DL-47667,monique,johnson,monique.johnson@youngltd.com,Young Ltd,US,Partner,Closed Won,1-50,56031.62,2
-DL-63264,Jason,Wright,jason.wright@gomezplc.com,Gomez PLC,France,Direct,Technical Validation,1000+,95878.52,5
-DL-56025,Raymond,Ramirez,raymond.ramirez@rasmussenllc.com,Rasmussen LLC,FRA,Organic,Closed Lost,1000+,24676.43,9
+DL-42850,Kimberly,Hall,kimberly.hall@robinson-lee.com,Robinson-Lee,UK,G2,Technical Validation,1000+,58060.92,8
+DL-52992,Daniel,Hall,daniel.hall@harveyplc.com,Harvey PLC,UK,Outbound SDR,Technical Validation,201-1000,107210.64,17
+DL-78386,Ryan,Cox,ryan.cox@zimmerman-graham.com,Zimmerman-Graham,UK,Organic,Demo Scheduled,201-1000,7288.26,5
+DL-74799,Robert,Soto,robert.soto@higginsgroup.com, Higgins Group ,UK,Organic,Demo Scheduled,51-200,50058.77,1
+DL-30706,Elizabeth,Nolan,elizabeth.nolan@santana-byrd.com,Santana-Byrd,UK,Direct,Closed Lost,1-50,27921.66,8
+DL-72422,joseph,martinez,joseph.martinez@fox-reese.com,Fox-Reese,GBR,Partner,Closed Lost,51-200,108953.11,10
+DL-84000,Carla,Smith,carla.smith@sanchez-martinez.com,Sanchez-Martinez,GBR,G2,Discovery,1000+,102042.1,3
+DL-88172,Michelle,Hernandez,michelle.hernandez@connergroup.com,Conner Group,US,G2,Closed Won,1000+,40234.6,9
+DL-97900,Jonathan,Fletcher,jonathan.fletcher@meyerplc.com,Meyer PLC,FRA,Events,Demo Scheduled,51-200,43373.69,2
+DL-15683,Shane,Cox,shane.cox@rodriguezgordonanddougherty.com,"Rodriguez, Gordon and Dougherty",France,Events,Closed Won,1000+,102551.32,6
+DL-82910,William,Moore,william.moore@walker-rodriguez.com,Walker-Rodriguez,USA,Direct,Legal Review,51-200,105865.81,18
+DL-63271,Angela,Black,angela.black@millerltd.com,Miller Ltd,France,Partner,Technical Validation,51-200,104589.05,10
+DL-85392,Jessica,Munoz,jessica.munoz@davisltd.com,Davis Ltd,United States,Organic,Closed Lost,1-50,100979.74,30
+DL-98259, Donna,Gomez,donna.gomez@owens-daniel.com,Owens-Daniel,GBR,Outbound SDR,Closed Lost,201-1000,118446.04,8
+DL-81364,Sean,Young,sean.young@garcia-jennings.com,Garcia-Jennings,United States,Organic,Legal Review,51-200,140808.27,46
+DL-55309,gregory,estes,gregory.estes@johnson-carlson.com,Johnson-Carlson,France,Referral (Old),Closed Lost,1-50,27000.42,24
+DL-47930,Christine,Hensley,christine73@gmail.com,"Lee, Jones and Stanley",UK,Partner,Closed Lost,1000+,25716.38,3
+DL-70637,John,Lee,john.lee@taylor-white.com,Taylor-White,GBR,G2,Technical Validation,201-1000,98014.85,8
+DL-83048,karen,perez,karen.perez@ramseywhitneyandcoffey.com,"Ramsey, Whitney and Coffey",FRA,Organic,Demo Scheduled,1-50,68950.59,8
+DL-28726,Nancy,Edwards,nancy.edwards@porterwilkersonandday.com,"Porter, Wilkerson and Day",US,Events,Legal Review,51-200,43433.21,29
+DL-92960,William,Leon,william.leon@jacksonmillerandrobertson.com,"Jackson, Miller and Robertson",FRA,Organic,Technical Validation,1-50,129371.3,6
+DL-26011,Rachel,Newman,rachel73@gmail.com,Sanders and Sons,USA,Partner,Closed Won,1000+,133942.69,3
+DL-85456,jamie,fisher,jamie.fisher@shahsmithandgilmore.com,"  Shah, Smith and Gilmore",US,Organic,Technical Validation,1000+,26107.62,11
+DL-25012,steven,scott,steven.scott@jackson-lawson.com,Jackson-Lawson,Great Britain,Organic,Closed Lost,201-1000,99139.72,2
+DL-36365,monique,henderson,monique.henderson@hickmanltd.com,Hickman Ltd,GBR,Partner,Technical Validation,201-1000,27873.29,26
+DL-46347,Julia,Wells,julia.wells@walton-larsen.com,Walton-Larsen,USA,G2,Closed Lost,51-200,76822.65,1
+DL-62531,Holly,Bender,holly.bender@fernandezkimandgeorge.com,"Fernandez, Kim and George  ",US,Partner,Legal Review,201-1000,142411.9,24
+DL-24663,Dana,Green,dana.green@ramosthorntonandhoffman.com,"Ramos, Thornton and Hoffman",United States,Organic,Legal Review,1000+,141513.24,4
+DL-10282,Richard,Olson,richard.olson@barrera-martin.com,Barrera-Martin,GBR,Referral (Old),Technical Validation,1-50,109364.37,5
+DL-50189,Alyssa,Coleman,alyssa.coleman@piercebellandchavez.com,"Pierce, Bell and Chavez",Great Britain,Partner,Closed Won,1-50,93304.26,16
+DL-73654,Amanda,Navarro,amanda.navarro@hurstfreemanandnelson.com,"Hurst, Freeman and Nelson",UK,G2,Demo Scheduled,1-50,69050.82,6
+DL-75909,Jill,Brown,jill.brown@brown-silva.com,Brown-Silva,United States,Direct,Demo Scheduled,201-1000,37572.9,4
+DL-82544,Christopher,Walker,christopher.walker@sanchezbeckandwood.com,"Sanchez, Beck and Wood",FRA,Partner,Closed Won,51-200,27435.88,10
+DL-24322, Denise,Lucas,denise.lucas@powellllc.com,Powell LLC,GBR,Organic,Legal Review,51-200,33938.06,36
+DL-33834,karen,hudson,karen.hudson@grayjohnsonandrosales.com,"Gray, Johnson and Rosales",US,Outbound SDR,Closed Won,201-1000,60231.14,13
+DL-48684,Alyssa,Mcintyre,alyssa.mcintyre@scottgroup.com,Scott Group,Great Britain,G2,Discovery,201-1000,53029.74,2
+DL-17331,Steven,Nelson,steven.nelson@wattsrobinsonandnguyen.com,"Watts, Robinson and Nguyen",UK,Events,Technical Validation,51-200,27161.69,21
+DL-67939,Robert,Lopez,robert.lopez@dean-jimenez.com,Dean-Jimenez,France,Direct,Discovery,1-50,42108.97,26
+DL-59968,Patrick,Chase,patrick.chase@williams-garner.com,Williams-Garner,Great Britain,Direct,Discovery,1000+,57680.11,23
+DL-47353,David,Bailey,david.bailey@suarezllc.com,Suarez LLC,USA,G2,Technical Validation,1000+,128749.95,43
+DL-48452,Scott,Benson,scott.benson@williamsinc.com,Williams Inc,United States,Events,Discovery,51-200,49098.06,3
+DL-86350,Charles,Ware,charles.ware@gardnerllc.com,Gardner LLC,GBR,Direct,Closed Won,1-50,55344.55,8
+DL-53309,jeffrey,jones,jeffrey.jones@brownjonesandjohnson.com,"Brown, Jones and Johnson",FRA,Referral (Old),Technical Validation,51-200,112478.48,12
+DL-19120,kimberly,james,kimberly.james@evans-chapman.com,Evans-Chapman,United States,Outbound SDR,Closed Won,1000+,103764.35,83
+DL-23434,Danielle,Johnson,danielle.johnson@sanchez-taylor.com,Sanchez-Taylor,USA,Outbound SDR,Closed Won,1-50,90621.41,1
+DL-69609,Michael,Gibbs,michael.gibbs@bakerinc.com,Baker Inc,GBR,G2,Discovery,51-200,80209.07,12
+DL-74340,Brandon,Brown,brandon.brown@terry-martinez.com,Terry-Martinez,USA,Outbound SDR,Discovery,1-50,77120.87,8
+DL-26334,James,Reynolds,james.reynolds@mccallhansonandalvarado.com,"Mccall, Hanson and Alvarado",US,Direct,Demo Scheduled,201-1000,107508.6,17
+DL-23833,Casey,Holland,casey.holland@atkinsongroup.com,Atkinson Group,GBR,Outbound SDR,Closed Won,1-50,45204.85,58
+DL-48752,Jennifer,Evans,jennifer.evans@estrada-nguyen.com,Estrada-Nguyen,GBR,Direct,Demo Scheduled,1000+,21642.56,4
+DL-79329,Eric,Bass,eric.bass@turnerriggsandroman.com,"Turner, Riggs and Roman  ",GBR,G2,Legal Review,51-200,126873.32,36
+DL-64040,Terri,Brady,terri.brady@hancockandsons.com,Hancock and Sons,UK,G2,Technical Validation,1-50,76674.44,6
+DL-46241,stephanie,vaughn,stephanie68@gmail.com,Robinson Group,USA,G2,Technical Validation,201-1000,117641.16,12
+DL-30861,Cheyenne,Ball,cheyenne.ball@simmonsmeadowsandgriffin.com,"Simmons, Meadows and Griffin",Great Britain,G2,Closed Lost,51-200,87910.66,4
+DL-27892,Tina,Sanchez,tina.sanchez@thomasleeandgreene.com,"Thomas, Lee and Greene",USA,Direct,Legal Review,1000+,96601.7,24
+DL-62488,Daniel,Martin,daniel.martin@steele-roberts.com,Steele-Roberts,Great Britain,Events,Demo Scheduled,201-1000,70151.29,11
+DL-40735,Katie,Boyd,katie.boyd@allengonzalesandreeves.com,"Allen, Gonzales and Reeves",Great Britain,G2,Discovery,51-200,64446.9,15
+DL-65255,Jason,Murphy,jason.murphy@ramirez-bean.com,Ramirez-Bean,UK,Referral (Old),Technical Validation,201-1000,113384.73,3
+DL-19838,Jason,Guerrero,jason.guerrero@allenplc.com,Allen PLC,US,Organic,Closed Lost,1-50,94176.22,10
+DL-66626,Holly,Bender,holly.bender@fernandezkimandgeorge.com,"Fernandez, Kim and George  ",US,Partner,Demo Scheduled,201-1000,142411.9,10
+DL-38569,Christine,Allen,christine.allen@caldwell-elliott.com,Caldwell-Elliott,US,Direct,Closed Lost,201-1000,20710.18,4
+DL-86724,Charles,Miller,charles.miller@hernandezmartinezandweber.com,"Hernandez, Martinez and Weber",FRA,Direct,Technical Validation,1-50,30878.68,11
+DL-27146,christopher,henderson,christopher.henderson@williams-cook.com,Williams-Cook,United States,Outbound SDR,Technical Validation,51-200,92854.44,47
+DL-82845,Tricia,Baker,tricia.baker@mitchell-horton.com,Mitchell-Horton,FRA,Events,Legal Review,51-200,94249.66,6
+DL-38183,Laura,Wilson,laura.wilson@curtismackandle.com," Curtis, Mack and Le ",UK,Organic,Discovery,51-200,34881.84,2
+DL-43466,Felicia,Jimenez,felicia83@gmail.com,"Thomas, Murray and King",USA,Partner,Legal Review,1-50,77215.52,14
+DL-84946,stanley,morris,stanley.morris@pollardandsons.com,Pollard and Sons,United States,Organic,Legal Review,1000+,29163.49,9
+DL-18161,Jasmine,Brown,jasmine.brown@rivera-owens.com, Rivera-Owens ,France,Referral (Old),Technical Validation,51-200,113281.12,8
+DL-27601,Alan,Montoya,alan.montoya@huynh-garcia.com, Huynh-Garcia ,USA,Direct,Legal Review,51-200,12291.27,7
+DL-28449,Julie,Morgan,julie.morgan@mcdonaldinc.com,Mcdonald Inc,UK,Direct,Technical Validation,51-200,109603.02,13
+DL-30028,joseph,flores,joseph.flores@millerhernandezandreyes.com,"Miller, Hernandez and Reyes",France,Events,Technical Validation,1000+,143350.24,14
+DL-20527,Terrance,Costa,terrance.costa@hanson-sanders.com,Hanson-Sanders,France,Organic,Legal Review,1-50,122524.42,48
+DL-19807,Alicia,Bryant,alicia24@gmail.com,"Thomas, Pitts and Booker",US,G2,Technical Validation,1000+,36112.71,14
+DL-47056,Eric,Ortiz,eric.ortiz@wheelercarterandhall.com,"Wheeler, Carter and Hall",USA,Direct,Closed Won,51-200,143869.74,9
+DL-68115,Martha,Gilbert,martha.gilbert@johnson-wood.com,Johnson-Wood,GBR,Partner,Discovery,51-200,82597.08,18
+DL-42271,Casey,Jones,casey.jones@powellplc.com,Powell PLC,United States,Referral (Old),Discovery,1000+,36731.96,23
+DL-91226,Laura,Jackson,laura.jackson@lynchgroup.com,Lynch Group,United States,Outbound SDR,Closed Won,201-1000,127166.85,12
+DL-23069,tammy,rivera,tammy.rivera@sawyergroup.com,Sawyer Group,United States,Partner,Demo Scheduled,201-1000,62714.94,15
+DL-68008,Stephen,Solis,stephen.solis@schmidthansenandstewart.com,"Schmidt, Hansen and Stewart",FRA,Partner,Technical Validation,1000+,130462.79,9
+DL-80804,Darren,Young,darren.young@taylorchavezandsantiago.com,"Taylor, Chavez and Santiago",UK,Events,Closed Won,51-200,97501.96,1
+DL-87656,tammy,nelson,tammy.nelson@hamptonmarshallandpetersen.com,"Hampton, Marshall and Petersen",FRA,G2,Closed Won,1-50,70540.79,4
+DL-84847,Chad,Young,chad.young@washingtonryanandcummings.com,"Washington, Ryan and Cummings",USA,Direct,Technical Validation,51-200,67319.07,1
+DL-30006,Jessica,Edwards,jessica.edwards@ortega-brooks.com,Ortega-Brooks,Great Britain,Partner,Closed Lost,51-200,64966.23,5
+DL-96159,Laura,Wilson,laura.wilson@curtismackandle.com," Curtis, Mack and Le ",UK,Organic,Closed Lost,51-200,34881.84,70
+DL-92397,Amanda,Dudley,amanda.dudley@miller-carter.com,Miller-Carter,United States,Direct,Technical Validation,1-50,38211.97,1
+DL-19508,Joseph,Anderson,joseph.anderson@evansstewartandwalton.com,"Evans, Stewart and Walton",France,Organic,Technical Validation,201-1000,134488.89,2
+DL-69878,Charles,Landry,charles.landry@evanshaydenandvaughn.com,"Evans, Hayden and Vaughn",Great Britain,Direct,Technical Validation,1000+,23961.09,7
+DL-64524,russell,beasley,russell.beasley@morgan-chavez.com,Morgan-Chavez,USA,Referral (Old),Discovery,51-200,78064.9,5
+DL-27038,kim,kramer,kim.kramer@smithgarrisonandthomas.com,"Smith, Garrison and Thomas",Great Britain,Referral (Old),Legal Review,201-1000,105092.1,15
+DL-84228,Alyssa,Mcintyre,alyssa.mcintyre@scottgroup.com,Scott Group,Great Britain,G2,Demo Scheduled,201-1000,53029.74,18
+DL-50888,kimberly,martin,kimberly.martin@rodriguez-johnson.com,Rodriguez-Johnson,USA,Organic,Legal Review,1000+,58796.67,42
+DL-84085,Beth,Williams,beth32@gmail.com,Barnes PLC,France,Organic,Closed Lost,201-1000,142755.74,32
+DL-74454,Tammy,King,tammy.king@wilson-jones.com,Wilson-Jones,FRA,Organic,Demo Scheduled,1000+,125643.76,36
+DL-26728,Anthony,Rogers,anthony.rogers@yatesramseyandpittman.com,"Yates, Ramsey and Pittman",FRA,Partner,Legal Review,1-50,39394.83,12
+DL-47512, alan,grimes,alan.grimes@beltranlozanoandmcgee.com,"Beltran, Lozano and Mcgee",FRA,Outbound SDR,Technical Validation,1000+,91640.22,26
+DL-96499,Lori,Campbell,lori.campbell@monroe-carpenter.com,Monroe-Carpenter,GBR,Organic,Discovery,201-1000,68357.95,8
+DL-22704,Barbara,Sanchez,barbara.sanchez@aguirre-lee.com,Aguirre-Lee,USA,Outbound SDR,Closed Won,1000+,146206.37,20
+DL-32838,Alexis,Tyler,alexis.tyler@chapmaninc.com,Chapman Inc,GBR,Events,Legal Review,201-1000,16324.89,12
+DL-73956,Melissa,Phelps,melissa.phelps@jamesstewartandhiggins.com,"James, Stewart and Higgins",Great Britain,Partner,Closed Lost,51-200,120085.98,10
+DL-91490,Michael,Farmer,michael.farmer@perezpattersonandhoffman.com,"Perez, Patterson and Hoffman",GBR,G2,Technical Validation,201-1000,57148.47,31
+DL-47667,monique,johnson,monique.johnson@youngltd.com, Young Ltd ,GBR,G2,Legal Review,51-200,93732.51,2
+DL-16658, james,walters,james.walters@wagner-king.com,Wagner-King,Great Britain,Referral (Old),Discovery,51-200,33907.3,1
+DL-12671,jeffrey,jones,jeffrey.jones@williamsjohnsonandwright.com,"Williams, Johnson and Wright",US,Direct,Closed Won,201-1000,18093.92,8
+DL-45018, michelle,hill,michelle26@gmail.com,Morgan-French,France,Referral (Old),Technical Validation,1000+,148422.79,11
+DL-48469,Erin,Wilson,erin.wilson@pottermackandpeterson.com,"Potter, Mack and Peterson",US,G2,Legal Review,51-200,131800.46,2
+DL-23970,Reginald,Hernandez,reginald.hernandez@smithpotterandcarrillo.com,"Smith, Potter and Carrillo",GBR,G2,Demo Scheduled,1000+,140234.69,5
+DL-25860,Jennifer,Ross,jennifer.ross@santoskimandholmes.com,"Santos, Kim and Holmes",USA,Direct,Technical Validation,1-50,134008.34,19
+DL-93819,Stacy,Holloway,stacy.holloway@batesltd.com,Bates Ltd,UK,Outbound SDR,Closed Lost,51-200,7042.21,6
+DL-34356,samantha,schmidt,samantha.schmidt@yuinc.com,Yu Inc,GBR,Organic,Closed Won,51-200,109160.16,7
+DL-80236,John,Martinez,john.martinez@stewartltd.com,Stewart Ltd,USA,Partner,Demo Scheduled,51-200,87116.56,8
+DL-84364,Sarah,Koch,sarah66@gmail.com,Allen-Allen,United States,Referral (Old),Closed Lost,51-200,63547.45,40
+DL-65435,Anna,Santiago,anna.santiago@gomez-ortega.com,Gomez-Ortega,FRA,Outbound SDR,Discovery,1000+,127834.34,2
+DL-25194,Lisa,Pierce,lisa.pierce@miller-king.com,Miller-King,US,G2,Legal Review,1-50,62485.82,7
+DL-29528,Donna,Peck,donna.peck@wilson-walker.com,Wilson-Walker,Great Britain,G2,Discovery,201-1000,14557.22,2
+DL-66346,Ashley,Sullivan,ashley.sullivan@torresandsons.com,Torres and Sons,FRA,G2,Legal Review,201-1000,92538.48,1
+DL-45054,Christina,Day,christina.day@lynchltd.com,Lynch Ltd,France,Outbound SDR,Closed Won,51-200,112481.59,1
+DL-21003,Tina,Ferguson,tina85@gmail.com,Vargas-Alvarado,UK,Organic,Closed Lost,1-50,137039.46,20
+DL-99593,mary,martin,mary.martin@clark-adams.com,Clark-Adams,United States,Organic,Legal Review,201-1000,145806.36,28
+DL-91987,Kevin,Oliver,kevin.oliver@choigarciaandfarmer.com,"Choi, Garcia and Farmer",Great Britain,Outbound SDR,Closed Lost,201-1000,120467.8,13
+DL-70217,Christopher,Davis,christopher.davis@munoz-roman.com,Munoz-Roman,Great Britain,Direct,Closed Lost,1-50,93324.0,3
+DL-22833,John,Leblanc,john.leblanc@morton-chase.com,Morton-Chase,Great Britain,Partner,Technical Validation,1-50,20718.37,8
+DL-35313,kevin,pope,kevin.pope@walkerltd.com,Walker Ltd,GBR,Direct,Legal Review,201-1000,110064.83,53
+DL-36100,Christine,Davis,christine.davis@chambersandsons.com,  Chambers and Sons,UK,Events,Technical Validation,1-50,145676.79,8
+DL-34164, curtis,smith,curtis.smith@harrison-alexander.com, Harrison-Alexander ,GBR,Partner,Discovery,1000+,138568.55,28
+DL-52906,Dawn,Taylor,dawn.taylor@white-green.com,White-Green,UK,Partner,Technical Validation,51-200,96095.98,33
+DL-70552,Tara,Powell,tara.powell@bryansmithandbooth.com,"Bryan, Smith and Booth",US,Referral (Old),Closed Lost,201-1000,119750.19,3
+DL-49824,charles,soto,charles.soto@hernandezplc.com,Hernandez PLC  ,US,Events,Demo Scheduled,201-1000,117972.09,2
+DL-56898,Angela,Jordan,angela54@gmail.com,Parker Inc,Great Britain,Organic,Legal Review,51-200,68145.64,19
+DL-60140, Michelle,Cochran,michelle.cochran@moore-haynes.com,Moore-Haynes,GBR,G2,Technical Validation,51-200,63638.16,4
+DL-31417,deborah,lynch,deborah.lynch@fergusonandsons.com,Ferguson and Sons,US,Partner,Technical Validation,1000+,27932.87,1
+DL-17972,jessica,kerr,jessica.kerr@boydellisandmaynard.com,"Boyd, Ellis and Maynard  ",UK,Events,Discovery,1-50,140514.51,2
+DL-64921,Omar,Smith,omar.smith@evans-price.com,Evans-Price,United States,Referral (Old),Demo Scheduled,1000+,137360.21,3
+DL-45954,Jeremy,White,jeremy.white@ericksonandsons.com,Erickson and Sons,US,Direct,Closed Lost,201-1000,11585.52,8
+DL-32962,Brenda,Smith,brenda.smith@underwoodjohnstonandhines.com,"Underwood, Johnston and Hines",FRA,Direct,Demo Scheduled,1000+,11335.4,7
+DL-24662,Nathaniel,Martin,nathaniel.martin@sellersgeorgeandburns.com,"Sellers, George and Burns",France,Organic,Closed Lost,201-1000,13288.96,13
+DL-41285,Alexandra,Donovan,alexandra.donovan@santiagollc.com,Santiago LLC,FRA,Outbound SDR,Technical Validation,51-200,126780.12,5
+DL-66606,Gloria,Wells,gloria.wells@deckerinc.com,Decker Inc  ,United States,G2,Closed Lost,1000+,118941.67,6
+DL-86484,Joseph,Wright,joseph.wright@ryanburgessandpatterson.com,"Ryan, Burgess and Patterson",GBR,Direct,Closed Lost,201-1000,68524.51,11
+DL-87304, Jacqueline,Gibson,jacqueline.gibson@hallbakerandmoody.com,"Hall, Baker and Moody",Great Britain,Referral (Old),Closed Lost,1000+,148692.97,11
+DL-99687,Brittany,Rivas,brittany.rivas@garciallc.com,Garcia LLC,GBR,Partner,Closed Won,201-1000,13779.76,5
+DL-58571,Caroline,Martinez,caroline28@gmail.com,"Patton, Reed and Patterson",France,Events,Technical Validation,51-200,148379.03,22
+DL-23173,Wendy,Francis,wendy.francis@good-hodges.com,Good-Hodges  ,France,Events,Legal Review,1000+,103615.8,6
+DL-79822,Stacey,Miller,stacey.miller@cabrera-spence.com,Cabrera-Spence,USA,Events,Technical Validation,51-200,102110.27,6
+DL-28595,Alexandra,Donovan,alexandra.donovan@santiagollc.com,Santiago LLC,FRA,Outbound SDR,Discovery,51-200,126780.12,68
+DL-99364,Michael,Jordan,michael.jordan@schmidtplc.com,Schmidt PLC,GBR,Partner,Closed Lost,201-1000,23149.69,6
+DL-25906,Kimberly,Robinson,kimberly.robinson@holmeswilliamsandwright.com,"Holmes, Williams and Wright",FRA,Outbound SDR,Demo Scheduled,51-200,130283.91,5
+DL-97806,Angel,Doyle,angel.doyle@patton-jenkins.com,Patton-Jenkins,Great Britain,Events,Discovery,51-200,17413.88,18
+DL-44237,Darlene,Ross,darlene.ross@riverajohnsonandwiley.com,"Rivera, Johnson and Wiley",United States,Organic,Legal Review,1000+,68867.98,3
+DL-75836,Paul,Alvarado,paul.alvarado@pollardsimpsonandjohnson.com,"  Pollard, Simpson and Johnson",USA,G2,Closed Lost,201-1000,57511.83,42
+DL-66207,kimberly,james,kimberly.james@evans-chapman.com,Evans-Chapman,United States,Outbound SDR,Legal Review,1000+,103764.35,30
+DL-46211,Tony,Kelly,tony90@gmail.com,Peterson-Beard,FRA,Direct,Closed Lost,51-200,67360.14,31
+DL-22999,Amy,Nguyen,amy.nguyen@schmidtchavezandjacobs.com,"Schmidt, Chavez and Jacobs",GBR,Partner,Legal Review,1000+,124387.26,4
+DL-30032,William,Rodriguez,william.rodriguez@evansfowlerandlynch.com,"Evans, Fowler and Lynch",USA,Referral (Old),Legal Review,201-1000,66336.09,45
+DL-41963,Joseph,Christian,joseph.christian@ramirezgroup.com,Ramirez Group,UK,Organic,Legal Review,1-50,76088.98,34
+DL-90676,angela,lee,angela.lee@bentleybyrdandorr.com,"Bentley, Byrd and Orr",UK,Referral (Old),Closed Lost,201-1000,68677.25,9
+DL-55870,johnny,miller,johnny.miller@curryinc.com,Curry Inc,Great Britain,Outbound SDR,Legal Review,201-1000,113251.11,6
+DL-34914,Jessica,Edwards,jessica.edwards@joycewilsonandlam.com,"Joyce, Wilson and Lam",US,G2,Demo Scheduled,1000+,70324.6,9
+DL-27224,Debbie,Parker,debbie.parker@johnson-diaz.com,Johnson-Diaz,Great Britain,Outbound SDR,Closed Won,1-50,11568.99,3
+DL-68138,Yolanda,Boone,yolanda.boone@parks-henry.com,Parks-Henry,USA,Outbound SDR,Closed Lost,1000+,59296.83,32
+DL-54942,Joseph,Preston,joseph.preston@trannelsonandjacobs.com,"Tran, Nelson and Jacobs",Great Britain,Partner,Technical Validation,1-50,73194.49,20
+DL-56025,Raymond,Ramirez,raymond.ramirez@rasmussenllc.com,Rasmussen LLC,UK,Partner,Discovery,51-200,44775.14,52
+DL-83608,Colin,Rodgers,colin.rodgers@hawkinsplc.com,Hawkins PLC,United States,Events,Technical Validation,51-200,121837.54,35
+DL-73532,Kathleen,Harris,kathleen.harris@andersonrobertsandgilmore.com,"Anderson, Roberts and Gilmore",FRA,Partner,Closed Lost,1000+,14107.04,26
+DL-79163,Katie,Anderson,katie.anderson@arroyo-martin.com,Arroyo-Martin,United States,Partner,Discovery,1000+,95068.09,12
+DL-87128,john,brown,john.brown@chapmanandsons.com,Chapman and Sons,UK,Outbound SDR,Closed Won,1000+,41412.58,34
+DL-44760,albert,howell,albert.howell@ferrelljonesandlewis.com,"Ferrell, Jones and Lewis",FRA,Organic,Legal Review,1000+,14028.53,26
+DL-48829,jenny,bray,jenny.bray@carlsonhooperandwall.com,"Carlson, Hooper and Wall",USA,Organic,Closed Lost,1000+,75420.95,9
+DL-93202,Thomas,Pearson,thomas.pearson@white-richards.com,White-Richards,France,G2,Legal Review,51-200,58336.94,42
+DL-22978,Robert,Newton,robert.newton@mcclureltd.com,Mcclure Ltd,France,Organic,Demo Scheduled,1000+,99669.46,30
+DL-69692,Dylan,Williams,dylan.williams@carr-mack.com, Carr-Mack ,USA,G2,Legal Review,1000+,115198.63,4
+DL-73242,Marilyn,Jimenez,marilyn.jimenez@carterthorntonandperry.com,"Carter, Thornton and Perry",Great Britain,Referral (Old),Closed Lost,1-50,116867.7,19
+DL-38010,Kristi,Lawson,kristi.lawson@marshall-ramos.com,Marshall-Ramos,USA,Partner,Demo Scheduled,1000+,80249.76,9
+DL-11792,David,Dudley,david.dudley@lloydmckinneyandcollins.com,"Lloyd, Mckinney and Collins",USA,Direct,Closed Won,201-1000,39881.81,8
+DL-53064,jamie,gallegos,jamie.gallegos@clarkrobinsonandkane.com,"Clark, Robinson and Kane",Great Britain,Referral (Old),Technical Validation,201-1000,48782.15,18
+DL-30926,Robert,Cole,robert.cole@pacheco-smith.com,Pacheco-Smith,UK,Events,Discovery,201-1000,125263.68,14
+DL-33777,Anthony,Nelson,anthony.nelson@dorsey-bell.com,Dorsey-Bell,FRA,Outbound SDR,Legal Review,201-1000,42312.38,25
+DL-59441,Tracy,Hernandez,tracy.hernandez@washingtoncookandhines.com,"Washington, Cook and Hines",FRA,Direct,Closed Won,201-1000,121166.47,19
+DL-94896,Andrea,Davis,andrea.davis@murrayinc.com,Murray Inc,US,Events,Closed Won,1-50,61615.79,9
+DL-28776,jessica,kerr,jessica.kerr@boydellisandmaynard.com,"Boyd, Ellis and Maynard  ",UK,Events,Closed Lost,1-50,140514.51,46
+DL-23396,Helen,Peterson,helen.peterson@lewisllc.com,Lewis LLC,GBR,Referral (Old),Discovery,51-200,130640.13,7
+DL-49857,Kaitlyn,Carroll,kaitlyn.carroll@gonzales-harrison.com,Gonzales-Harrison,FRA,Organic,Technical Validation,51-200,102166.88,25
+DL-58689,Miguel,Curry,miguel.curry@richards-carson.com,Richards-Carson,France,Outbound SDR,Closed Won,201-1000,103000.94,29
+DL-87993,Rebekah,Serrano,rebekah.serrano@brownllc.com,Brown LLC,UK,Events,Closed Won,51-200,137928.24,6
+DL-59986,Megan,Gonzalez,megan.gonzalez@castaneda-rodriguez.com,Castaneda-Rodriguez,Great Britain,G2,Technical Validation,1000+,130303.76,8
+DL-49608,Rose,Walker,rose.walker@reidgroup.com,Reid Group,France,Direct,Closed Lost,1000+,134885.27,8
+DL-57953,Christopher,Phillips,christopher.phillips@perrygonzalezandbuchanan.com,"Perry, Gonzalez and Buchanan",France,Events,Technical Validation,51-200,61978.42,14
+DL-45976,Ashley,Andrews,ashley.andrews@phillipsspenceandbarrett.com,"Phillips, Spence and Barrett",United States,Direct,Legal Review,1000+,77320.16,6
+DL-16175, reginald,robinson,reginald3@gmail.com,Hicks Inc,GBR,Outbound SDR,Closed Lost,1-50,38196.56,34
+DL-19961,Barbara,Odonnell,barbara.odonnell@sanders-espinoza.com,Sanders-Espinoza,FRA,G2,Closed Won,1000+,141162.69,5
+DL-39581,Christopher,Wright,christopher.wright@duranobrienandgibbs.com,"Duran, Obrien and Gibbs",GBR,Direct,Demo Scheduled,51-200,19906.66,5
+DL-97835,Lisa,Costa,lisa.costa@bailey-cook.com,Bailey-Cook,France,Events,Demo Scheduled,51-200,131585.28,1
+DL-63264,Jason,Wright,jason.wright@gomezplc.com,Gomez PLC,UK,G2,Closed Won,201-1000,51734.16,4
+DL-81426,Clayton,Hall,clayton.hall@johnsongonzalezandsantos.com,"Johnson, Gonzalez and Santos",USA,G2,Technical Validation,1-50,18448.15,2
+DL-85914,Dorothy,Tucker,dorothy.tucker@phillipsinc.com,Phillips Inc,USA,Events,Legal Review,1000+,102965.95,11
+DL-27275,Amber,Lindsey,amber.lindsey@guerreroinc.com,Guerrero Inc,Great Britain,Outbound SDR,Closed Won,201-1000,65297.61,12
+DL-11504,Bryan,James,bryan56@gmail.com,Rice-Maddox,US,G2,Closed Lost,1-50,13788.84,19
+DL-55830,Monica,Garrison,monica.garrison@gonzalezgroup.com,Gonzalez Group,Great Britain,G2,Technical Validation,1000+,44282.88,5
+DL-92242,Erica,Le,erica.le@beckertayloranddavis.com,"Becker, Taylor and Davis",GBR,G2,Technical Validation,1-50,23656.19,2
+DL-31798,Brent,Kidd,brent.kidd@novakandsons.com,Novak and Sons,Great Britain,Organic,Technical Validation,1-50,107773.87,1
+DL-12260,tracy,chang,tracy13@gmail.com,"Alvarez, Joseph and West",US,Partner,Closed Won,201-1000,102151.92,8
+DL-13905,erica,mcclain,erica.mcclain@garzainc.com,Garza Inc,GBR,Referral (Old),Closed Won,1000+,36963.89,13
+DL-85748,Miranda,Griffith,miranda49@gmail.com,  Burke-Bell,GBR,Events,Closed Won,51-200,74512.16,29
+DL-84341,Jeremy,Johnson,jeremy.johnson@morales-jones.com,Morales-Jones,USA,Organic,Technical Validation,51-200,13399.15,30
+DL-74569,Debra,Wilson,debra.wilson@shahllc.com,Shah LLC  ,United States,Direct,Closed Lost,1000+,36028.09,25
+DL-33416,Ryan,Chavez,ryan70@gmail.com,"Liu, Baker and Mason",US,Organic,Demo Scheduled,1000+,75417.96,4
+DL-93320,Tracie,Wyatt,tracie.wyatt@jamesgroup.com,James Group,UK,Events,Demo Scheduled,1000+,18181.86,1
