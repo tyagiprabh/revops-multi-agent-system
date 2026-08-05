@@ -1,0 +1,111 @@
+agent_id,workspace_id,creator_user_id,agent_name,model,connected_tools
+AGT-54716,WS-6305,USR-20561,Sales Prospector - Serve,Claude 3.5 Sonnet,['Notion']
+AGT-27913,WS-6305,USR-98630,Data Analyst - Accept,Mistral Large,['GitHub']
+AGT-34664,WS-6305,USR-98630,Market Researcher - Experience,Mistral Large,"['Zendesk', 'GitHub', 'Slack']"
+AGT-80377,WS-6305,USR-29781,Code Reviewer - Quality,Claude 3.5 Sonnet,['Slack']
+AGT-11966,WS-6305,USR-84231,Sales Prospector - Push,Mistral Large,"['Snowflake', 'GitHub']"
+AGT-52322,WS-6305,USR-26952,Sales Prospector - Wind,GPT-4o,"['GitHub', 'Salesforce']"
+AGT-13614,WS-6305,USR-10030,Support Router - Difference,GPT-4o,"['Slack', 'Salesforce']"
+AGT-52145,WS-2186,USR-21112,Data Analyst - General,Mistral Large,"['Zendesk', 'GitHub']"
+AGT-13550,WS-2186,USR-72656,Data Analyst - Range,Gemini 1.5 Pro,['Notion']
+AGT-73743,WS-2186,USR-21112,Code Reviewer - Into,Gemini 1.5 Pro,['Notion']
+AGT-89925,WS-2186,USR-68097,Sales Prospector - Respond,Claude 3.5 Sonnet,"['GitHub', 'Notion', 'Zendesk']"
+AGT-54272,WS-2186,USR-35533,Code Reviewer - Contain,Mistral Large,"['Notion', 'Slack']"
+AGT-17529,WS-2186,USR-55125,Code Reviewer - Treat,Claude 3.5 Sonnet,"['Notion', 'Slack']"
+AGT-64299,WS-2186,USR-18094,Market Researcher - Style,Mistral Large,"['Salesforce', 'Slack']"
+AGT-15959,WS-2186,USR-41377,Data Analyst - Begin,Gemini 1.5 Pro,"['Notion', 'Slack', 'GitHub']"
+AGT-92091,WS-4517,USR-19491,Support Router - Position,Gemini 1.5 Pro,"['Zendesk', 'Slack']"
+AGT-53846,WS-4517,USR-43896,Data Analyst - Stand,Claude 3.5 Sonnet,['Notion']
+AGT-74796,WS-4517,USR-23733,Data Analyst - Piece,Mistral Large,['Slack']
+AGT-62370,WS-4517,USR-23930,Code Reviewer - Even,Claude 3.5 Sonnet,"['Salesforce', 'Google Drive', 'Zendesk']"
+AGT-70735,WS-4517,USR-93358,HR Onboarding - Tv,Mistral Large,"['Notion', 'Salesforce']"
+AGT-11782,WS-4517,USR-23733,Sales Prospector - Agree,Claude 3.5 Sonnet,"['Google Drive', 'Zendesk']"
+AGT-51535,WS-4517,USR-76412,HR Onboarding - Organization,GPT-4o,"['Snowflake', 'Salesforce']"
+AGT-95733,WS-4517,USR-11513,Support Router - Form,GPT-4o,['Salesforce']
+AGT-17342,WS-2144,USR-17950,Data Analyst - Just,Mistral Large,['GitHub']
+AGT-90473,WS-2144,USR-60142,Sales Prospector - See,Gemini 1.5 Pro,"['GitHub', 'Salesforce', 'Notion']"
+AGT-53144,WS-2144,USR-57278,Market Researcher - Close,Claude 3.5 Sonnet,['Slack']
+AGT-22248,WS-2144,USR-99508,Code Reviewer - After,Claude 3.5 Sonnet,['Snowflake']
+AGT-30472,WS-2144,USR-70158,Code Reviewer - Develop,Mistral Large,"['Notion', 'GitHub', 'Salesforce']"
+AGT-28698,WS-2144,USR-17950,Market Researcher - Next,Mistral Large,"['Salesforce', 'Notion', 'Snowflake']"
+AGT-21779,WS-1968,USR-68503,Market Researcher - Help,Gemini 1.5 Pro,['Slack']
+AGT-57412,WS-1968,USR-30234,HR Onboarding - Land,Claude 3.5 Sonnet,"['Snowflake', 'Slack', 'Salesforce']"
+AGT-55102,WS-1968,USR-35419,Code Reviewer - Nothing,GPT-4o,"['Snowflake', 'GitHub', 'Slack']"
+AGT-99148,WS-1968,USR-51465,Support Router - Per,GPT-4o,"['Snowflake', 'GitHub', 'Google Drive']"
+AGT-82744,WS-1968,USR-35126,Sales Prospector - Class,GPT-4o,"['Zendesk', 'GitHub', 'Slack']"
+AGT-96161,WS-1968,USR-37184,HR Onboarding - Play,Mistral Large,"['Zendesk', 'Google Drive', 'GitHub']"
+AGT-85362,WS-2013,USR-42905,Code Reviewer - Give,Mistral Large,['GitHub']
+AGT-40146,WS-2013,USR-68584,Data Analyst - Sit,Claude 3.5 Sonnet,"['Notion', 'Google Drive', 'Zendesk']"
+AGT-91091,WS-2013,USR-16604,Data Analyst - Evening,Mistral Large,['Salesforce']
+AGT-72594,WS-2013,USR-19845,Market Researcher - Source,GPT-4o,"['Slack', 'Salesforce', 'Zendesk']"
+AGT-14146,WS-3181,USR-66906,HR Onboarding - Stand,Gemini 1.5 Pro,['Slack']
+AGT-94843,WS-3181,USR-85732,Code Reviewer - For,Gemini 1.5 Pro,"['Zendesk', 'Salesforce', 'Notion']"
+AGT-95411,WS-3181,USR-16775,Sales Prospector - Spring,Gemini 1.5 Pro,['Salesforce']
+AGT-82023,WS-3181,USR-85086,Data Analyst - Seat,GPT-4o,['Slack']
+AGT-69396,WS-3181,USR-88580,Code Reviewer - Operation,Gemini 1.5 Pro,"['Snowflake', 'Salesforce', 'Slack']"
+AGT-46472,WS-3181,USR-51120,Code Reviewer - High,GPT-4o,['Notion']
+AGT-78592,WS-3181,USR-10459,Sales Prospector - Next,GPT-4o,['Google Drive']
+AGT-45904,WS-6054,USR-30826,Sales Prospector - Cause,Mistral Large,['Google Drive']
+AGT-43150,WS-6054,USR-87394,Code Reviewer - Act,Claude 3.5 Sonnet,['GitHub']
+AGT-83155,WS-6054,USR-50337,Sales Prospector - Maybe,Claude 3.5 Sonnet,"['Zendesk', 'Notion']"
+AGT-23079,WS-4078,USR-23343,Code Reviewer - Reality,Claude 3.5 Sonnet,"['Salesforce', 'Snowflake']"
+AGT-57513,WS-4078,USR-37059,HR Onboarding - City,GPT-4o,"['Snowflake', 'Slack']"
+AGT-92431,WS-4078,USR-54938,Code Reviewer - Drive,Gemini 1.5 Pro,"['Google Drive', 'Snowflake']"
+AGT-62539,WS-4078,USR-41756,HR Onboarding - Something,Claude 3.5 Sonnet,"['Salesforce', 'Zendesk', 'Snowflake']"
+AGT-21784,WS-4078,USR-40280,HR Onboarding - Write,Mistral Large,['Google Drive']
+AGT-13663,WS-1976,USR-62387,Support Router - Probably,Gemini 1.5 Pro,"['Google Drive', 'Salesforce', 'Slack']"
+AGT-27582,WS-1976,USR-90478,Code Reviewer - Can,Mistral Large,['Zendesk']
+AGT-81207,WS-1976,USR-90478,Market Researcher - More,Gemini 1.5 Pro,"['Slack', 'Notion', 'Zendesk']"
+AGT-36861,WS-1976,USR-40623,Data Analyst - One,Gemini 1.5 Pro,"['GitHub', 'Notion', 'Google Drive']"
+AGT-33831,WS-1976,USR-62387,Market Researcher - Event,GPT-4o,"['Notion', 'Salesforce', 'GitHub']"
+AGT-89439,WS-1976,USR-92387,Sales Prospector - History,Claude 3.5 Sonnet,['Salesforce']
+AGT-29571,WS-1976,USR-92387,Sales Prospector - Weight,GPT-4o,"['Slack', 'GitHub']"
+AGT-33256,WS-1976,USR-45051,Data Analyst - Truth,Mistral Large,"['GitHub', 'Salesforce']"
+AGT-31244,WS-6146,USR-16012,Support Router - Newspaper,Gemini 1.5 Pro,"['Notion', 'Google Drive', 'Zendesk']"
+AGT-13806,WS-6146,USR-62917,Data Analyst - Have,GPT-4o,['Slack']
+AGT-41796,WS-6146,USR-78883,Data Analyst - Letter,Gemini 1.5 Pro,"['Zendesk', 'Slack']"
+AGT-75396,WS-5911,USR-25296,Data Analyst - Different,Claude 3.5 Sonnet,"['Slack', 'Salesforce']"
+AGT-93378,WS-5911,USR-70990,Support Router - While,GPT-4o,"['Salesforce', 'GitHub', 'Notion']"
+AGT-55118,WS-5911,USR-51562,Code Reviewer - Wear,GPT-4o,['Notion']
+AGT-60990,WS-5911,USR-65256,Support Router - Magazine,Claude 3.5 Sonnet,['GitHub']
+AGT-37799,WS-5911,USR-47133,Support Router - Game,Mistral Large,"['Google Drive', 'GitHub', 'Salesforce']"
+AGT-13469,WS-5911,USR-65190,Support Router - Box,Mistral Large,"['Notion', 'Slack', 'GitHub']"
+AGT-96511,WS-5911,USR-99257,HR Onboarding - Significant,Gemini 1.5 Pro,"['Notion', 'Snowflake']"
+AGT-12023,WS-5911,USR-89781,Sales Prospector - Attorney,GPT-4o,['Zendesk']
+AGT-94601,WS-4999,USR-15845,Code Reviewer - White,Mistral Large,"['Notion', 'Google Drive']"
+AGT-62671,WS-4999,USR-22728,Code Reviewer - Represent,GPT-4o,"['Snowflake', 'Google Drive']"
+AGT-55964,WS-4999,USR-17435,Code Reviewer - As,Claude 3.5 Sonnet,['Slack']
+AGT-39899,WS-9111,USR-42550,Sales Prospector - Organization,Claude 3.5 Sonnet,"['Slack', 'Salesforce', 'Notion']"
+AGT-59282,WS-9111,USR-31428,Code Reviewer - It,Mistral Large,"['Snowflake', 'Slack', 'Notion']"
+AGT-59226,WS-9111,USR-48472,Data Analyst - You,Mistral Large,"['Notion', 'Zendesk', 'GitHub']"
+AGT-96120,WS-2199,USR-90053,HR Onboarding - Product,Gemini 1.5 Pro,['Salesforce']
+AGT-39370,WS-2199,USR-24816,Sales Prospector - Allow,Gemini 1.5 Pro,"['Slack', 'GitHub', 'Salesforce']"
+AGT-43020,WS-2199,USR-14505,Sales Prospector - Against,GPT-4o,"['Snowflake', 'Slack']"
+AGT-44382,WS-2199,USR-87894,Market Researcher - Security,GPT-4o,"['Slack', 'GitHub']"
+AGT-66858,WS-2199,USR-64624,Data Analyst - Effort,Claude 3.5 Sonnet,"['Slack', 'Google Drive']"
+AGT-40327,WS-2199,USR-52461,Code Reviewer - Health,Mistral Large,"['Zendesk', 'Google Drive', 'Notion']"
+AGT-36634,WS-2199,USR-85673,Code Reviewer - Gas,Claude 3.5 Sonnet,"['GitHub', 'Snowflake', 'Google Drive']"
+AGT-65785,WS-6604,USR-17886,Code Reviewer - Question,Gemini 1.5 Pro,"['GitHub', 'Snowflake', 'Google Drive']"
+AGT-46527,WS-6604,USR-86834,Support Router - Fire,Gemini 1.5 Pro,"['Google Drive', 'Zendesk']"
+AGT-75352,WS-6604,USR-79486,HR Onboarding - Direction,GPT-4o,['Salesforce']
+AGT-84648,WS-1642,USR-92504,HR Onboarding - Street,Mistral Large,"['Google Drive', 'Slack']"
+AGT-30542,WS-1642,USR-42104,Market Researcher - Me,Claude 3.5 Sonnet,['Zendesk']
+AGT-45032,WS-1642,USR-26159,Sales Prospector - Society,Mistral Large,"['Google Drive', 'Slack']"
+AGT-27894,WS-1642,USR-13763,Code Reviewer - Test,Claude 3.5 Sonnet,['Zendesk']
+AGT-49332,WS-1642,USR-38729,HR Onboarding - Fear,GPT-4o,"['Notion', 'Salesforce']"
+AGT-21591,WS-1642,USR-49803,Market Researcher - Glass,Mistral Large,"['Zendesk', 'Snowflake', 'Notion']"
+AGT-10515,WS-1642,USR-92504,Data Analyst - Mention,GPT-4o,['Zendesk']
+AGT-42732,WS-6140,USR-68634,Code Reviewer - Color,Claude 3.5 Sonnet,"['Slack', 'Snowflake']"
+AGT-51912,WS-6140,USR-65763,Support Router - Result,Gemini 1.5 Pro,"['Slack', 'Google Drive', 'GitHub']"
+AGT-89987,WS-6140,USR-13626,Support Router - Picture,Mistral Large,['GitHub']
+AGT-69381,WS-6140,USR-39818,Support Router - Difference,GPT-4o,['Zendesk']
+AGT-85920,WS-8474,USR-41778,Sales Prospector - Area,Gemini 1.5 Pro,"['Slack', 'Zendesk']"
+AGT-37501,WS-8474,USR-67655,Support Router - Today,GPT-4o,"['Snowflake', 'Google Drive']"
+AGT-57233,WS-8474,USR-25035,Sales Prospector - Any,GPT-4o,"['Google Drive', 'Salesforce', 'GitHub']"
+AGT-67550,WS-8474,USR-97761,Market Researcher - Court,Mistral Large,['Notion']
+AGT-66991,WS-8474,USR-25035,Market Researcher - Treat,GPT-4o,"['Snowflake', 'Zendesk']"
+AGT-28323,WS-8474,USR-19778,Support Router - Would,GPT-4o,"['Slack', 'Google Drive']"
+AGT-49007,WS-8474,USR-80573,Support Router - Reveal,GPT-4o,['Snowflake']
+AGT-13201,WS-8767,USR-92689,Sales Prospector - Support,Mistral Large,"['Google Drive', 'Salesforce', 'Zendesk']"
+AGT-24622,WS-8767,USR-27775,HR Onboarding - Civil,Mistral Large,"['Salesforce', 'Zendesk']"
+AGT-11235,WS-8767,USR-19441,Code Reviewer - Cell,Gemini 1.5 Pro,['Salesforce']
