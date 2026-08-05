@@ -1,0 +1,32 @@
+name: Weekly digest
+
+on:
+  schedule:
+    - cron: "0 7 * * 1" # Mondays 07:00 UTC
+  workflow_dispatch: {}
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    env:
+      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install -e .
+      - name: Run pipeline
+        run: python -m revops run --out digest
+      - name: Upload digest artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: weekly-digest
+          path: digest/
+          retention-days: 30
+      - name: Post digest to Slack (only if SLACK_WEBHOOK_URL secret is set)
+        if: ${{ env.SLACK_WEBHOOK_URL != '' }}
+        run: |
+          jq -Rs '{text: .}' digest/weekly_digest.md \
+            | curl -sf -X POST -H 'Content-type: application/json' -d @- "$SLACK_WEBHOOK_URL"

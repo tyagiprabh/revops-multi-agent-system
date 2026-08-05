@@ -26,3 +26,15 @@ jobs:
         run: |
           python -m revops run --out /tmp/demo
           test -s /tmp/demo/weekly_digest.md
+
+  docker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build image
+        run: docker build -t revops .
+      - name: Smoke run (deterministic mode, bundled samples)
+        run: |
+          mkdir -p /tmp/reports
+          docker run --rm -v /tmp/reports:/reports revops
+          test -s /tmp/reports/weekly_digest.md

@@ -6,11 +6,12 @@ from pathlib import Path
 
 from .llm import ClaudeClient, api_key_available
 from .orchestrator import load_deals, load_transcripts, run_pipeline
+from .paths import repo_file
 from .render import write_reports
 
-REPO_ROOT = Path(__file__).resolve().parents[2]
-DEFAULT_DEALS = REPO_ROOT / "data" / "samples" / "dirty_crm_deals.csv"
-DEFAULT_CALLS = REPO_ROOT / "data" / "samples" / "gong_call_transcripts.json"
+DEFAULT_DEALS = repo_file("data", "samples", "dirty_crm_deals.csv")
+DEFAULT_CALLS = repo_file("data", "samples", "gong_call_transcripts.json")
+DEFAULT_OUT = repo_file("reports") / "latest"
 
 
 def main(argv=None) -> int:
@@ -22,9 +23,7 @@ def main(argv=None) -> int:
     run = sub.add_parser("run", help="Run hygiene -> pipeline analysis -> digest")
     run.add_argument("--deals", type=Path, default=DEFAULT_DEALS, help="CRM deals CSV")
     run.add_argument("--calls", type=Path, default=DEFAULT_CALLS, help="Transcripts JSON")
-    run.add_argument(
-        "--out", type=Path, default=REPO_ROOT / "reports" / "latest", help="Output directory"
-    )
+    run.add_argument("--out", type=Path, default=DEFAULT_OUT, help="Output directory")
     run.add_argument(
         "--live",
         action="store_true",

@@ -122,16 +122,27 @@ offline engine produces.
 is an upgrade, not a requirement, which also means the LLM layer can be swapped without
 touching the pipeline.
 
+## Deployment
+
+The pipeline deploys four ways, all running the same code path: a scheduled
+[GitHub Actions digest](.github/workflows/weekly-digest.yml) (works from the repo alone,
+optional Slack delivery via one secret), a [Docker image](Dockerfile), an importable
+[n8n workflow](deploy/n8n/weekly-revops-digest.json) that posts the weekly digest to
+Slack, and the agent specs [deployed on Dust](deploy/dust/README.md) with the samples as
+datasources. Details in [docs/deployment.md](docs/deployment.md).
+
 ## Repository layout
 
 ```text
 agents/               agent specs (markdown, platform-agnostic)
 data/                 synthetic data generators + committed samples
-docs/                 data dictionary
+deploy/               n8n workflow + Dust deployment guide
+docs/                 data dictionary + deployment guide
 src/revops/           package: schemas, agents, orchestrator, CLI
 reports/              committed sample run output
 tests/                pytest suite (runs offline)
 run_claude_agent.py   standalone live demo for a single deal
+Dockerfile            containerized runs for schedulers and n8n hosts
 ```
 
 ## Data
@@ -170,7 +181,6 @@ CI runs lint, the test suite on Python 3.9 and 3.12, and a full demo run on ever
 ## Roadmap
 
 - Salesforce connector so the hygiene agent runs against a real CRM sandbox instead of CSV
-- Slack delivery of the weekly digest (n8n webhook)
 - A forecast agent that reconciles rep commit against the analyst's risk scores
 - A usage-analytics agent over the agent-fleet telemetry dataset (adoption, error rates,
   credit burn per model)
